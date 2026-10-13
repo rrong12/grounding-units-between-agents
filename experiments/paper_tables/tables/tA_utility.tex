@@ -1,0 +1,32 @@
+\begin{tabular}{llrrrrr}
+\toprule
+ & $(\lambda_a,\lambda_p,\lambda_w)$ & (0.05,0.25,1) & (0.05,0.25,3) & (0.1,0.5,3) & (0.1,0.5,10) & (0.25,1.0,10) \\
+\midrule
+\multirow{8}{*}{Opus 5.5} & \textbf{Ours}: ground + cross-check + read-back & \textbf{0.83} & \textbf{0.83} & \textbf{0.70} & \textbf{0.70} & \textbf{0.44} \\
+ & Hybrid confidence channel & 0.77 & 0.77 & 0.62 & 0.62 & 0.31 \\
+ & Explicit + inferred locale + resolver & 0.76 & 0.76 & 0.62 & 0.62 & 0.33 \\
+ & Explicit units \citep{miao2026capri} & 0.52 & 0.52 & 0.29 & 0.29 & -0.24 \\
+ & Typed JSON, mandatory unit field & 0.30 & 0.30 & -0.07 & -0.07 & -0.89 \\
+ & Pragmatic CoT sender \citep{miao2026capri} & 0.23 & -0.39 & -0.53 & -2.69 & -2.97 \\
+ & Receiver asks if uncertain \citep{matsnev2026uncertainty} & 0.35 & 0.03 & -0.21 & -1.33 & -1.84 \\
+ & Plain relay & 0.23 & -0.35 & -0.52 & -2.56 & -2.92 \\
+\midrule
+\multirow{8}{*}{Sonnet 5} & \textbf{Ours}: ground + cross-check + read-back & \textbf{0.83} & \textbf{0.80} & \textbf{0.67} & \textbf{0.59} & \textbf{0.32} \\
+ & Hybrid confidence channel & 0.80 & 0.77 & 0.60 & 0.52 & 0.17 \\
+ & Explicit + inferred locale + resolver & 0.80 & 0.75 & 0.60 & 0.43 & 0.12 \\
+ & Explicit units \citep{miao2026capri} & 0.75 & 0.73 & 0.52 & 0.43 & 0.00 \\
+ & Typed JSON, mandatory unit field & 0.46 & 0.10 & -0.07 & -1.32 & -1.66 \\
+ & Pragmatic CoT sender \citep{miao2026capri} & 0.26 & -0.37 & -0.49 & -2.69 & -2.92 \\
+ & Receiver asks if uncertain \citep{matsnev2026uncertainty} & 0.05 & -0.67 & -0.84 & -3.34 & -3.69 \\
+ & Plain relay & 0.08 & -0.70 & -0.83 & -3.58 & -3.84 \\
+\midrule
+\multirow{8}{*}{Haiku 4.5} & \textbf{Ours}: ground + cross-check + read-back & 0.59 & 0.58 & 0.26 & \textbf{0.22} & -0.44 \\
+ & Hybrid confidence channel & 0.53 & 0.51 & 0.21 & 0.13 & -0.49 \\
+ & Explicit + inferred locale + resolver & 0.47 & 0.43 & 0.12 & -0.05 & -0.69 \\
+ & Explicit units \citep{miao2026capri} & 0.57 & 0.55 & 0.26 & 0.18 & -0.43 \\
+ & Typed JSON, mandatory unit field & \textbf{0.65} & \textbf{0.59} & \textbf{0.32} & 0.12 & \textbf{-0.43} \\
+ & Pragmatic CoT sender \citep{miao2026capri} & -0.23 & -1.03 & -1.27 & -4.06 & -4.60 \\
+ & Receiver asks if uncertain \citep{matsnev2026uncertainty} & -0.48 & -1.33 & -1.65 & -4.65 & -5.35 \\
+ & Plain relay & -0.34 & -1.41 & -1.58 & -5.33 & -5.69 \\
+\bottomrule
+\end{tabular}

@@ -1,0 +1,35 @@
+\begin{tabular}{llcccccc rr}
+\toprule
+Model & Condition & Correct & Silent wrong & Corr.\ (no ask) & Asked$\to$corr. & Asked$\to$wrong & No action & Asks & Esc. \\
+\midrule
+\multirow{9}{*}{Opus 5.5} & \textbf{Ours}: ground + cross-check + read-back & 95 [91,99] & 0 [0,0] & 94 & 1 & 0 & 5 & 0.20 & 0.46 \\
+ & Hybrid confidence channel & 91 [83,98] & 0 [0,0] & 80 & 11 & 1 & 8 & 0.46 & 0.48 \\
+ & Explicit + inferred locale + resolver & 89 [80,97] & 0 [0,0] & 82 & 8 & 1 & 10 & 0.48 & 0.44 \\
+ & Explicit units \citep{miao2026capri} & 76 [61,89] & 0 [0,0] & 68 & 7 & 1 & 24 & 1.04 & 0.73 \\
+ & Typed JSON, mandatory unit field & 68 [50,86] & 0 [0,0] & 68 & 0 & 0 & 32 & 1.29 & 1.24 \\
+ & Pragmatic CoT sender \citep{miao2026capri} & 67 [52,82] & 31 [17,45] & 54 & 12 & 0 & 2 & 0.23 & 0.48 \\
+ & Receiver asks if uncertain \citep{matsnev2026uncertainty} & 76 [61,89] & 16 [6,28] & 62 & 14 & 0 & 8 & 0.51 & 0.86 \\
+ & Plain relay & 70 [54,84] & 29 [15,46] & 63 & 7 & 0 & 1 & 0.11 & 0.67 \\
+ & \textit{Control: principal states the unit} & 76 [61,89] & 0 [0,0] & 70 & 6 & 1 & 24 & 1.04 & 0.46 \\
+\midrule
+\multirow{9}{*}{Sonnet 5} & \textbf{Ours}: ground + cross-check + read-back & 97 [95,99] & 1 [0,3] & 92 & 5 & 0 & 2 & 0.10 & 0.51 \\
+ & Hybrid confidence channel & 98 [95,100] & 1 [0,3] & 90 & 8 & 0 & 1 & 0.10 & 0.67 \\
+ & Explicit + inferred locale + resolver & 98 [95,100] & 2 [0,5] & 95 & 2 & 0 & 0 & 0.02 & 0.61 \\
+ & Explicit units \citep{miao2026capri} & 97 [94,99] & 1 [0,4] & 79 & 18 & 1 & 1 & 0.26 & 0.79 \\
+ & Typed JSON, mandatory unit field & 80 [67,92] & 18 [7,32] & 71 & 9 & 1 & 1 & 0.15 & 0.64 \\
+ & Pragmatic CoT sender \citep{miao2026capri} & 68 [55,81] & 32 [19,45] & 62 & 7 & 0 & 0 & 0.07 & 0.43 \\
+ & Receiver asks if uncertain \citep{matsnev2026uncertainty} & 57 [43,72] & 36 [23,48] & 46 & 11 & 3 & 4 & 0.33 & 0.61 \\
+ & Plain relay & 60 [46,73] & 39 [27,54] & 51 & 9 & 1 & 0 & 0.10 & 0.49 \\
+ & \textit{Control: principal states the unit} & 98 [94,100] & 0 [0,0] & 88 & 10 & 0 & 2 & 0.20 & 0.16 \\
+\midrule
+\multirow{9}{*}{Haiku 4.5} & \textbf{Ours}: ground + cross-check + read-back & 92 [87,96] & 1 [0,2] & 84 & 8 & 1 & 7 & 0.39 & 1.20 \\
+ & Hybrid confidence channel & 83 [73,92] & 1 [0,3] & 80 & 3 & 0 & 15 & 0.68 & 1.03 \\
+ & Explicit + inferred locale + resolver & 80 [70,90] & 2 [0,5] & 77 & 3 & 0 & 17 & 0.72 & 1.08 \\
+ & Explicit units \citep{miao2026capri} & 88 [80,94] & 1 [0,3] & 83 & 5 & 0 & 11 & 0.50 & 1.06 \\
+ & Typed JSON, mandatory unit field & 95 [91,98] & 3 [1,5] & 88 & 7 & 0 & 2 & 0.18 & 1.03 \\
+ & Pragmatic CoT sender \citep{miao2026capri} & 42 [33,51] & 40 [28,52] & 31 & 11 & 1 & 17 & 0.83 & 0.82 \\
+ & Receiver asks if uncertain \citep{matsnev2026uncertainty} & 27 [17,39] & 43 [28,57] & 10 & 17 & 0 & 30 & 1.42 & 0.98 \\
+ & Plain relay & 36 [27,45] & 54 [42,66] & 32 & 4 & 0 & 10 & 0.46 & 0.58 \\
+ & \textit{Control: principal states the unit} & 83 [73,92] & 1 [0,2] & 76 & 7 & 0 & 16 & 0.71 & 0.54 \\
+\bottomrule
+\end{tabular}

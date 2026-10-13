@@ -1,0 +1,17 @@
+\begin{tabular}{lcccc}
+\toprule
+Condition & Opus 5.5 & Sonnet 5 & Haiku 4.5 & Worst model \\
+\midrule
+\textbf{Ours}: ground + cross-check + read-back & \textbf{95} / 0 & 97 / 1 & 92 / 1 & \textbf{92} / 1 \\
+\midrule
+Hybrid confidence channel & 91 / 0 & \textbf{98} / 1 & 83 / 1 & 83 / 1 \\
+Explicit + inferred locale + resolver & 89 / 0 & \textbf{98} / 2 & 80 / 2 & 80 / 2 \\
+Explicit units \citep{miao2026capri} & 76 / 0 & 97 / 1 & 88 / 1 & 76 / 1 \\
+Typed JSON, mandatory unit field & 68 / 0 & 80 / 18 & \textbf{95} / 3 & 68 / 18 \\
+Pragmatic CoT sender \citep{miao2026capri} & 67 / 31 & 68 / 32 & 42 / 40 & 42 / 40 \\
+Receiver asks if uncertain \citep{matsnev2026uncertainty} & 76 / 16 & 57 / 36 & 27 / 43 & 27 / 43 \\
+Plain relay & 70 / 29 & 60 / 39 & 36 / 54 & 36 / 54 \\
+\midrule
+\textit{Control: principal states the unit} & \textit{76 / 0} & \textit{98 / 0} & \textit{83 / 1} & \\
+\bottomrule
+\end{tabular}

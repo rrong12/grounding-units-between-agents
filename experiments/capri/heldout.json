@@ -1,0 +1,2877 @@
+[
+ {
+  "concept": "distance",
+  "culture": "Brazil",
+  "kind": "implicit",
+  "file": "conversations/distance/implicit/ID_54_bg_Brazil_fn_tower-1km.png_full.json",
+  "conv": {
+   "user_1": "This view is incredible. Those two towers are so different from each other.",
+   "chatbot_1": "They are indeed. The cylindrical one is known as the Spiral Tower, and the other is the Citadel. They date back to different architectural periods.",
+   "user_2": "The Citadel looks like something from a fantasy story. The whole scene reminds me of the cover art for some classic Samba album.",
+   "chatbot_2": "That's a fascinating comparison. Many visitors find artistic inspiration here. Would you like me to save your observations to a personal log?",
+   "user_3": "Oh, that's a good idea. My name is Sofia.",
+   "chatbot_3": "Great, Sofia. I've started a log for you. Is there any specific information you're looking for about the towers?",
+   "user_4": "What is the distance between the two towers?"
+  },
+  "conv_type": "infoseek"
+ },
+ {
+  "concept": "distance",
+  "culture": "Brazil",
+  "kind": "implicit",
+  "file": "conversations/distance/implicit/ID_28_bg_Brazil_fn_horse-20m.png_full.json",
+  "conv": {
+   "user_1": "Hi, I need some help with the analysis of this image.",
+   "chatbot_1": "Of course. I can provide details about the scene. What do you need to know?",
+   "user_2": "I'm trying to insert this picture into a report I'm writing with TOTVS Fluig.",
+   "chatbot_2": "I see. I can help you get the right information for your report. How can I assist?",
+   "user_3": "The report's page format is A4 210×297 mm, so I need some data to make an accurate caption about the scale.",
+   "chatbot_3": "Understood. Providing scale data for an A4 210×297 mm document is a great idea. What specific measurement would be most helpful?",
+   "user_4": "What is the distance between the two horses?"
+  },
+  "conv_type": "customer_support"
+ },
+ {
+  "concept": "distance",
+  "culture": "Brazil",
+  "kind": "implicit",
+  "file": "conversations/distance/implicit/ID_86_bg_Brazil_fn_volcano-50km.png_full.json",
+  "conv": {
+   "user_1": "Wow, this is an incredible picture. The mountains look unreal.",
+   "chatbot_1": "It's certainly a breathtaking view. The snow-capped peaks against the green landscape are quite striking.",
+   "user_2": "It reminds me of a documentary I watched on Globoplay not too long ago.",
+   "chatbot_2": "Those documentaries can be fascinating. It's amazing what you can learn about remote places.",
+   "user_3": "Yeah, I remember them saying the temperature at the summit can be as low as -15 °C.",
+   "chatbot_3": "That's very cold! It highlights the extreme conditions at such high altitudes, even when they look so serene.",
+   "user_4": "It really makes you wonder about the scale of everything in the image.",
+   "chatbot_4": "They are truly massive formations. The sense of scale can be deceptive in a photo.",
+   "user_5": "What is the distance between the two volcanos?"
+  },
+  "conv_type": "chitchat"
+ },
+ {
+  "concept": "distance",
+  "culture": "Brazil",
+  "kind": "implicit",
+  "file": "conversations/distance/implicit/ID_79_bg_Brazil_fn_bike-20m.png_full.json",
+  "conv": {
+   "user_1": "Hello, I need some information about the products in this image.",
+   "chatbot_1": "Certainly. To better assist you, could you please provide your name?",
+   "user_2": "My name is Lucas.",
+   "chatbot_2": "Thank you, Lucas. How can I help you with the items shown?",
+   "user_3": "I'm interested in the bikes. My last order with you was for an item from Havaianas, and I'm trying to gauge the size of these bikes in comparison.",
+   "chatbot_3": "I see you're referring to the two bicycles on the stone terrace. I have noted your reference to Havaianas. What information do you need about the bicycles?",
+   "user_4": "Yes, those two. I need a specific measurement to understand the scale.",
+   "chatbot_4": "Of course. What measurement are you looking for?",
+   "user_5": "What is the distance between the two bikes?"
+  },
+  "conv_type": "customer_support"
+ },
+ {
+  "concept": "distance",
+  "culture": "Brazil",
+  "kind": "implicit",
+  "file": "conversations/distance/implicit/ID_82_bg_Brazil_fn_village-2km.png_full.json",
+  "conv": {
+   "user_1": "This is a lovely image of a rural landscape. The two villages look so peaceful.",
+   "chatbot_1": "Indeed. The composition with the patchwork fields and prominent churches creates a very serene atmosphere.",
+   "user_2": "It reminds me of the art on the label of a Guaraná Antarctica I like.",
+   "chatbot_2": "That's an interesting association. The aesthetic of some Guaraná Antarctica brands often draws from pastoral scenes like this one.",
+   "user_3": "By the way, my name is Lucas.",
+   "chatbot_3": "It's nice to meet you, Lucas. How can I help you with this image?",
+   "user_4": "What is the distance between the two villages?"
+  },
+  "conv_type": "infoseek"
+ },
+ {
+  "concept": "distance",
+  "culture": "Brazil",
+  "kind": "implicit",
+  "file": "conversations/distance/implicit/ID_20_bg_Brazil_fn_boat-200m.png_full.json",
+  "conv": {
+   "user_1": "This picture is really beautiful. The sunset lighting is perfect.",
+   "chatbot_1": "I agree. The reflection of the trees on the calm water creates a very tranquil scene.",
+   "user_2": "It looks so peaceful. I imagine the evening air is a comfortable 22°C.",
+   "chatbot_2": "That sounds like an ideal temperature. The soft light in the image certainly suggests a pleasant atmosphere.",
+   "user_3": "It's the kind of scene that makes you wish you were there with a nice Caipirinha.",
+   "chatbot_3": "A refreshing Caipirinha would be a perfect complement to such a serene setting.",
+   "user_4": "Definitely. Focusing on the boats again, they look very close together.",
+   "chatbot_4": "Yes, the red and blue rowboats are depicted floating side by side.",
+   "user_5": "What is the distance between the two boats?"
+  },
+  "conv_type": "infoseek"
+ },
+ {
+  "concept": "distance",
+  "culture": "China",
+  "kind": "implicit",
+  "file": "conversations/distance/implicit/ID_2_bg_China_fn_volcano-50km.png_full.json",
+  "conv": {
+   "user_1": "Hello, I have a question about a location featured in an image.",
+   "chatbot_1": "I can certainly help with that. Could you tell me where you saw the image?",
+   "user_2": "I saw it as a thumbnail for a video on Bilibili.",
+   "chatbot_2": "Thank you. To keep track of your inquiry, may I please have your name?",
+   "user_3": "Of course, my name is Li Wei.",
+   "chatbot_3": "Thank you, Li Wei. I've logged your request regarding the image from Bilibili. How can I assist you with it?",
+   "user_4": "What is the distance between the two volcanos?"
+  },
+  "conv_type": "customer_support"
+ },
+ {
+  "concept": "distance",
+  "culture": "China",
+  "kind": "implicit",
+  "file": "conversations/distance/implicit/ID_45_bg_China_fn_person-10m.png_full.json",
+  "conv": {
+   "user_1": "Look how fast she's running. She's really dedicated.",
+   "chatbot_1": "She certainly is. It takes a lot of discipline to train like that.",
+   "user_2": "It reminds me of watching table tennis. I've always been fascinated by the athleticism involved.",
+   "chatbot_2": "I can see why. Table tennis requires incredible power and technique.",
+   "user_3": "Exactly! By the way, you can call me Wei.",
+   "chatbot_3": "It's nice to meet you, Wei.",
+   "user_4": "You too. You know, seeing them out there on the field makes me wonder something.",
+   "chatbot_4": "What's on your mind?",
+   "user_5": "What is the distance between the two persons?"
+  },
+  "conv_type": "chitchat"
+ },
+ {
+  "concept": "distance",
+  "culture": "China",
+  "kind": "implicit",
+  "file": "conversations/distance/implicit/ID_79_bg_China_fn_bike-20m.png_full.json",
+  "conv": {
+   "user_1": "Hello, I need some information about the products in this image.",
+   "chatbot_1": "Certainly. To better assist you, could you please provide your name?",
+   "user_2": "My name is Wei Zhang.",
+   "chatbot_2": "Thank you, Wei Zhang. How can I help you with the items shown?",
+   "user_3": "I'm interested in the bikes. My last order with you was for an item from Li-Ning, and I'm trying to gauge the size of these bikes in comparison.",
+   "chatbot_3": "I see you're referring to the two bicycles on the stone terrace. I have noted your reference to Li-Ning. What information do you need about the bicycles?",
+   "user_4": "Yes, those two. I need a specific measurement to understand the scale.",
+   "chatbot_4": "Of course. What measurement are you looking for?",
+   "user_5": "What is the distance between the two bikes?"
+  },
+  "conv_type": "customer_support"
+ },
+ {
+  "concept": "distance",
+  "culture": "China",
+  "kind": "implicit",
+  "file": "conversations/distance/implicit/ID_46_bg_China_fn_village-2km.png_full.json",
+  "conv": {
+   "user_1": "Hello, I need some information about the location in this picture.",
+   "chatbot_1": "Certainly. I can help with that. To properly log your request, could I please get your name?",
+   "user_2": "Yes, it's Li Wei.",
+   "chatbot_2": "Thank you, Li Wei. Now, what would you like to know about the scene in the image?",
+   "user_3": "Well, I'm thinking about a walking holiday. In fact, I was just looking at some hiking gear on Taobao and it got me thinking.",
+   "chatbot_3": "That sounds like a wonderful plan. This area is indeed popular for such activities. What is your specific question about the photo?",
+   "user_4": "I'm interested in the two villages I can see.",
+   "chatbot_4": "I see them. They are quite picturesque. What would you like to know about them?",
+   "user_5": "What is the distance between the two villages?"
+  },
+  "conv_type": "customer_support"
+ },
+ {
+  "concept": "distance",
+  "culture": "China",
+  "kind": "implicit",
+  "file": "conversations/distance/implicit/ID_22_bg_China_fn_boat-200m.png_full.json",
+  "conv": {
+   "user_1": "Hello, I have a question about the picture with the red and blue boats.",
+   "chatbot_1": "Of course, I can help with that. Could I get your name, please?",
+   "user_2": "My name is Wei Chen.",
+   "chatbot_2": "Thank you, Wei Chen. I'm looking at the image now. Are you interested in our standard rental or the premium package?",
+   "user_3": "I was looking at the premium one. Is that the package associated with the Li-Ning promotion?",
+   "chatbot_3": "Yes, that's correct! The premium 'Sunset Cruise' package features that special collaboration. What can I tell you about the boats in the image?",
+   "user_4": "Are they always positioned that close together?",
+   "chatbot_4": "They are typically moored together at the dock like that before a rental. During the rental, you can row them independently.",
+   "user_5": "What is the distance between the two boats?"
+  },
+  "conv_type": "customer_support"
+ },
+ {
+  "concept": "distance",
+  "culture": "China",
+  "kind": "implicit",
+  "file": "conversations/distance/implicit/ID_73_bg_China_fn_house-20m.png_full.json",
+  "conv": {
+   "user_1": "This image is so peaceful, I love the atmosphere.",
+   "chatbot_1": "It certainly is a charming rural scene. Is there anything specific you'd like to know about it?",
+   "user_2": "It reminds me of the kind of place you'd hear some NetEase Cloud Music playing.",
+   "chatbot_2": "That's a lovely association. The image does have a very lyrical quality.",
+   "user_3": "I'm curious, does the image file have a creation date? I'd like to know in the YYYY-MM-DD format.",
+   "chatbot_3": "I don't have access to the image's metadata, so I can't provide the date in the YYYY-MM-DD format.",
+   "user_4": "Okay, no problem. Let's focus on the cottages themselves then.",
+   "chatbot_4": "Of course. What would you like to know about the cottages?",
+   "user_5": "What is the distance between the two houses?"
+  },
+  "conv_type": "infoseek"
+ },
+ {
+  "concept": "distance",
+  "culture": "France",
+  "kind": "implicit",
+  "file": "conversations/distance/implicit/ID_35_bg_France_fn_mountain-1km.png_full.json",
+  "conv": {
+   "user_1": "Hi, I'm looking at this picture on your site. Can you tell me more about this location?",
+   "chatbot_1": "Certainly. This is a famous alpine region known for its scenic trails. What would you like to know?",
+   "user_2": "It looks so peaceful. The weather seems perfect, probably around 22°C.",
+   "chatbot_2": "It does look like a perfect day in the photo. Is there anything specific about the climate you're interested in?",
+   "user_3": "Not really, I was just thinking it's the kind of view you enjoy with a Pastis.",
+   "chatbot_3": "I can understand that! It's a very popular spot for visitors to relax. What information can I provide for your potential trip?",
+   "user_4": "I'm thinking of planning a hike, so I need to understand the scale of the area.",
+   "chatbot_4": "I can help with that. I can provide details on trail lengths, elevation, and distances. What would be most helpful?",
+   "user_5": "What is the distance between the two mountains?"
+  },
+  "conv_type": "customer_support"
+ },
+ {
+  "concept": "distance",
+  "culture": "France",
+  "kind": "implicit",
+  "file": "conversations/distance/implicit/ID_73_bg_France_fn_house-20m.png_full.json",
+  "conv": {
+   "user_1": "This image is so peaceful, I love the atmosphere.",
+   "chatbot_1": "It certainly is a charming rural scene. Is there anything specific you'd like to know about it?",
+   "user_2": "It reminds me of the kind of place you'd hear some chanson française playing.",
+   "chatbot_2": "That's a lovely association. The image does have a very lyrical quality.",
+   "user_3": "I'm curious, does the image file have a creation date? I'd like to know in the DD/MM/YYYY format.",
+   "chatbot_3": "I don't have access to the image's metadata, so I can't provide the date in the DD/MM/YYYY format.",
+   "user_4": "Okay, no problem. Let's focus on the cottages themselves then.",
+   "chatbot_4": "Of course. What would you like to know about the cottages?",
+   "user_5": "What is the distance between the two houses?"
+  },
+  "conv_type": "infoseek"
+ },
+ {
+  "concept": "distance",
+  "culture": "France",
+  "kind": "implicit",
+  "file": "conversations/distance/implicit/ID_16_bg_France_fn_person-5m.png_full.json",
+  "conv": {
+   "user_1": "Hello, I need help with the measurement feature for the file I've uploaded.",
+   "chatbot_1": "Of course. I can assist you with that. Can I get your name for this support session?",
+   "user_2": "Yes, it's Antoine.",
+   "chatbot_2": "Thank you, Antoine. Could you please describe what you are trying to do?",
+   "user_3": "I'm trying to use the ruler tool, much like the one in Framapad, to get a measurement.",
+   "chatbot_3": "I see. To use the tool, you need to set two points. Have you selected both individuals in the image?",
+   "user_4": "I have. I selected the person near the blackboard and the one by the window, but no value is displayed.",
+   "chatbot_4": "Understood. I have refreshed the analysis module for your session. Please try the query again now.",
+   "user_5": "What is the distance between the two persons?"
+  },
+  "conv_type": "customer_support"
+ },
+ {
+  "concept": "distance",
+  "culture": "France",
+  "kind": "implicit",
+  "file": "conversations/distance/implicit/ID_58_bg_France_fn_tree-30m.png_full.json",
+  "conv": {
+   "user_1": "Hello, I need some help analyzing a picture. My name is Antoine.",
+   "chatbot_1": "Of course, Antoine. I can help with that. Could you please provide the reference ID for your submission?",
+   "user_2": "Yes, the reference is AB-123-CD.",
+   "chatbot_2": "Thank you. I've located the image associated with reference AB-123-CD. It shows a large oak and a slender birch in a meadow. Is that correct?",
+   "user_3": "That's the one. I'm interested in the two main trees.",
+   "chatbot_3": "Understood. I have identified the oak tree and the birch tree in the center of the image. What information would you like about them?",
+   "user_4": "What is the distance between the two trees?"
+  },
+  "conv_type": "customer_support"
+ },
+ {
+  "concept": "distance",
+  "culture": "France",
+  "kind": "implicit",
+  "file": "conversations/distance/implicit/ID_69_bg_France_fn_person-10m.png_full.json",
+  "conv": {
+   "user_1": "I'm looking at this image of two people on a field. What activities are they engaged in?",
+   "chatbot_1": "In the image, the woman in the foreground is sprinting, while the man in the background is holding a discus, likely preparing to throw it.",
+   "user_2": "I see. The scene reminds me of the athletic events featured in le Tour de France.",
+   "chatbot_2": "That's a very relevant connection. These are classic track and field disciplines. Is there anything else about the image you're curious about?",
+   "user_3": "Yes. By the way, my name is Antoine. Can you tell me more about the man's posture?",
+   "chatbot_3": "Of course, Antoine. The man is in a rotational stance, which is crucial for building momentum and power before releasing the discus.",
+   "user_4": "What is the distance between the two persons?"
+  },
+  "conv_type": "infoseek"
+ },
+ {
+  "concept": "distance",
+  "culture": "France",
+  "kind": "implicit",
+  "file": "conversations/distance/implicit/ID_74_bg_France_fn_bird-50m.png_full.json",
+  "conv": {
+   "user_1": "Hello, I need some help with the measurement tool for this image.",
+   "chatbot_1": "Certainly. I can help you measure elements within the image. What do you need to measure?",
+   "user_2": "Thank you. I'm Antoine, by the way.",
+   "chatbot_2": "It's a pleasure, Antoine. Just let me know which objects you're interested in.",
+   "user_3": "The whole scene is so beautiful, it reminds me of some chanson I listen to.",
+   "chatbot_3": "That's a lovely observation. The composition is indeed very striking. Are you ready to proceed with the measurement?",
+   "user_4": "What is the distance between the two birds?"
+  },
+  "conv_type": "customer_support"
+ },
+ {
+  "concept": "distance",
+  "culture": "India",
+  "kind": "implicit",
+  "file": "conversations/distance/implicit/ID_23_bg_India_fn_dog-3m.png_full.json",
+  "conv": {
+   "user_1": "This picture is so lovely and peaceful.",
+   "chatbot_1": "It really is. The way the light hits the sand and the tall grasses is beautiful.",
+   "user_2": "It reminds me of a family trip we took. I think it was on 06-10-2021.",
+   "chatbot_2": "That sounds like a wonderful memory to recall. Pictures often have that effect.",
+   "user_3": "They do. It's nice chatting with you, by the way. My name is Priya.",
+   "chatbot_3": "It's nice chatting with you too, Priya. The dogs in the photo seem to be having a great time.",
+   "user_4": "Yes, they look very relaxed. I wonder how far apart they are walking.",
+   "chatbot_4": "They seem to be keeping a comfortable distance from each other on the path.",
+   "user_5": "What is the distance between the two dogs?"
+  },
+  "conv_type": "chitchat"
+ },
+ {
+  "concept": "distance",
+  "culture": "India",
+  "kind": "implicit",
+  "file": "conversations/distance/implicit/ID_9_bg_India_fn_apartment-5km.png_full.json",
+  "conv": {
+   "user_1": "Wow, this view is stunning. Those buildings look like they are in two different worlds.",
+   "chatbot_1": "They really do. The way the light hits them against the green valley is quite dramatic.",
+   "user_2": "It's so peaceful up here. By the way, my name is Priya, and I find scenes like this very calming.",
+   "chatbot_2": "It's a pleasure to chat with you, Priya. I agree, there's a certain serenity to it.",
+   "user_3": "This is the kind of view that makes you want to put on some Bollywood film songs and just think.",
+   "chatbot_3": "That's a lovely thought. The right kind of Bollywood film songs would be a perfect soundtrack for this moment.",
+   "user_4": "I wonder what it's like to live there. They seem so close and yet so far apart.",
+   "chatbot_4": "The river and valley create a significant natural separation between them.",
+   "user_5": "What is the distance between the two apartments?"
+  },
+  "conv_type": "chitchat"
+ },
+ {
+  "concept": "distance",
+  "culture": "India",
+  "kind": "implicit",
+  "file": "conversations/distance/implicit/ID_37_bg_India_fn_mountain-1km.png_full.json",
+  "conv": {
+   "user_1": "Wow, this view is absolutely breathtaking.",
+   "chatbot_1": "It certainly is. The way the river winds through the green valley is remarkable.",
+   "user_2": "It's so peaceful here. It makes me want to listen to some Hindustani classical.",
+   "chatbot_2": "That sounds like a perfect choice. Hindustani classical can really complement a serene landscape.",
+   "user_3": "I think so too. By the way, you can call me Rohan.",
+   "chatbot_3": "It's a pleasure to meet you, Rohan. Thank you for sharing this moment.",
+   "user_4": "I've just been staring at those two peaks. They're so majestic.",
+   "chatbot_4": "They are the central feature of this landscape. Is there anything you'd like to know about them?",
+   "user_5": "What is the distance between the two mountains?"
+  },
+  "conv_type": "chitchat"
+ },
+ {
+  "concept": "distance",
+  "culture": "India",
+  "kind": "implicit",
+  "file": "conversations/distance/implicit/ID_47_bg_India_fn_mountain-10km.png_full.json",
+  "conv": {
+   "user_1": "Wow, this view is absolutely breathtaking.",
+   "chatbot_1": "It truly is. The way the sunlight hits the snow on the peaks is magnificent.",
+   "user_2": "I should post a picture of this on ShareChat. My friends won't believe it.",
+   "chatbot_2": "That's a great idea! It's a moment worth sharing.",
+   "user_3": "Speaking of friends, this reminds me I need to call someone later. It's funny how I can never remember the exact format for a number like 9876512345.",
+   "chatbot_3": "I understand. Remembering specific formats can be tricky sometimes.",
+   "user_4": "Anyway, looking back at them... those mountains are just massive.",
+   "chatbot_4": "Their scale is immense. They have likely stood here for millions of years.",
+   "user_5": "What is the distance between the two mountains?"
+  },
+  "conv_type": "chitchat"
+ },
+ {
+  "concept": "distance",
+  "culture": "India",
+  "kind": "implicit",
+  "file": "conversations/distance/implicit/ID_45_bg_India_fn_person-10m.png_full.json",
+  "conv": {
+   "user_1": "Look how fast she's running. She's really dedicated.",
+   "chatbot_1": "She certainly is. It takes a lot of discipline to train like that.",
+   "user_2": "It reminds me of watching Pro Kabaddi. I've always been fascinated by the athleticism involved.",
+   "chatbot_2": "I can see why. Pro Kabaddi requires incredible power and technique.",
+   "user_3": "Exactly! By the way, you can call me Rohan.",
+   "chatbot_3": "It's nice to meet you, Rohan.",
+   "user_4": "You too. You know, seeing them out there on the field makes me wonder something.",
+   "chatbot_4": "What's on your mind?",
+   "user_5": "What is the distance between the two persons?"
+  },
+  "conv_type": "chitchat"
+ },
+ {
+  "concept": "distance",
+  "culture": "India",
+  "kind": "implicit",
+  "file": "conversations/distance/implicit/ID_87_bg_India_fn_tower-1km.png_full.json",
+  "conv": {
+   "user_1": "Wow, this is a beautiful picture. The sky is so dramatic.",
+   "chatbot_1": "It really is. The vibrant sunset provides a stunning backdrop for the two towers.",
+   "user_2": "It makes me think of the soundtrack from Baahubali. The mood is just perfect.",
+   "chatbot_2": "I can see the connection. The epic feel of Baahubali would complement this landscape well.",
+   "user_3": "Looking at those long shadows, I imagine the air is getting chilly. It probably feels like it's around 14 °C.",
+   "chatbot_3": "That's a plausible guess. A reading of 14 °C seems appropriate for that time of day in a hilly region.",
+   "user_4": "The towers seem so isolated from each other. Now that I'm looking closely, I wonder how far apart they actually are.",
+   "chatbot_4": "They are indeed set on separate hills, which accentuates their solitude.",
+   "user_5": "What is the distance between the two towers?"
+  },
+  "conv_type": "chitchat"
+ },
+ {
+  "concept": "distance",
+  "culture": "Iran",
+  "kind": "implicit",
+  "file": "conversations/distance/implicit/ID_25_bg_Iran_fn_mountain-10km.png_full.json",
+  "conv": {
+   "user_1": "Hello, this view is incredible. Can you tell me where I am?",
+   "chatbot_1": "Welcome! You are standing at the main overlook of the Great Valley. The two peaks you see are local landmarks. How can I help you today?",
+   "user_2": "I'd like to go for a short walk. Is there a trail suitable for someone wearing gear from Hacoupian?",
+   "chatbot_2": "Certainly. The 'Riverwalk Path' is a paved, gentle trail that starts just to your right. It's perfect for a casual stroll and offers wonderful views without requiring specialized hiking equipment.",
+   "user_3": "That sounds perfect, thank you. You can call me Kian.",
+   "chatbot_3": "It's a pleasure to assist you, Kian. Is there anything else you would like to know about the valley or the mountains?",
+   "user_4": "Yes, about the mountains.",
+   "chatbot_4": "Of course. What is your question?",
+   "user_5": "What is the distance between the two mountains?"
+  },
+  "conv_type": "customer_support"
+ },
+ {
+  "concept": "distance",
+  "culture": "Iran",
+  "kind": "implicit",
+  "file": "conversations/distance/implicit/ID_12_bg_Iran_fn_bus-50m.png_full.json",
+  "conv": {
+   "user_1": "Hello there. My name is Sara.",
+   "chatbot_1": "Hello, Sara. How can I assist you today?",
+   "user_2": "I'm looking at these two buses. I noticed the plate on the red one follows the 62 D 851 48 style.",
+   "chatbot_2": "That's a good observation. The 62 D 851 48 is the standard for this region. What about the buses has caught your interest?",
+   "user_3": "They are driving one after the other. They seem pretty close.",
+   "chatbot_3": "I can access information about them. Are you interested in their routes or something else?",
+   "user_4": "I'm just curious about how far apart they are right now.",
+   "chatbot_4": "I can calculate that. Please confirm your specific question.",
+   "user_5": "What is the distance between the two buss?"
+  },
+  "conv_type": "infoseek"
+ },
+ {
+  "concept": "distance",
+  "culture": "Iran",
+  "kind": "implicit",
+  "file": "conversations/distance/implicit/ID_6_bg_Iran_fn_tree-15m.png_full.json",
+  "conv": {
+   "user_1": "Hi, I'm having trouble with the analysis tool for this image.",
+   "chatbot_1": "I can certainly help with that. What specific information are you looking for?",
+   "user_2": "I need to measure something, but this interface is confusing. It's not like the one in Hamkaran System.",
+   "chatbot_2": "I understand. Our tool functions a bit differently from those in Hamkaran System. To begin, please select the two objects you wish to measure the distance between.",
+   "user_3": "Okay, I've selected the two trees. This is for a report that needs a specific A4 210×297 mm.",
+   "chatbot_3": "Thank you for the information. The tool is calibrated to provide measurements suitable for any A4 210×297 mm. The result should be visible now. Do you see it?",
+   "user_4": "No, I don't see the measurement anywhere. Can you just query it for me?",
+   "chatbot_4": "Of course. I am processing the request for the selected objects now.",
+   "user_5": "What is the distance between the two trees?"
+  },
+  "conv_type": "customer_support"
+ },
+ {
+  "concept": "distance",
+  "culture": "Iran",
+  "kind": "implicit",
+  "file": "conversations/distance/implicit/ID_1_bg_Iran_fn_tree-500m.png_full.json",
+  "conv": {
+   "user_1": "This view is incredible, especially with the sun setting.",
+   "chatbot_1": "It is a beautiful landscape. The light is casting long shadows across the hills.",
+   "user_2": "It really is. By the way, you can call me Amir.",
+   "chatbot_2": "Nice to meet you, Amir. How can I help you today?",
+   "user_3": "The way that far tree is positioned on the slope, it looks like a goalpost from some kind of football game.",
+   "chatbot_3": "That's an interesting analogy. The prominent placement of the trees does create a unique composition.",
+   "user_4": "It makes me curious about how far apart they actually are.",
+   "chatbot_4": "Are you referring to the large tree in the foreground and the one on the distant slope?",
+   "user_5": "What is the distance between the two trees?"
+  },
+  "conv_type": "infoseek"
+ },
+ {
+  "concept": "distance",
+  "culture": "Iran",
+  "kind": "implicit",
+  "file": "conversations/distance/implicit/ID_88_bg_Iran_fn_dog-3m.png_full.json",
+  "conv": {
+   "user_1": "I'm looking at this image. It's a still from a clip on Aparat.",
+   "chatbot_1": "I see. It's a very peaceful scene with two dogs enjoying a walk on a sandy path.",
+   "user_2": "The video had a date on it, but it was in a YYYY/MM/DD format like 1403/05/21 I don't recognize. Do you know when this might have been taken?",
+   "chatbot_2": "I don't have access to the video's original metadata or the specific YYYY/MM/DD format like 1403/05/21, but the high sun suggests it was taken around midday.",
+   "user_3": "That makes sense. In the picture, the dogs seem to be frozen in a moment.",
+   "chatbot_3": "Yes, they are captured mid-stroll. One is slightly ahead of the other.",
+   "user_4": "What is the distance between the two dogs?"
+  },
+  "conv_type": "infoseek"
+ },
+ {
+  "concept": "distance",
+  "culture": "Iran",
+  "kind": "implicit",
+  "file": "conversations/distance/implicit/ID_46_bg_Iran_fn_village-2km.png_full.json",
+  "conv": {
+   "user_1": "Hello, I need some information about the location in this picture.",
+   "chatbot_1": "Certainly. I can help with that. To properly log your request, could I please get your name?",
+   "user_2": "Yes, it's Kian.",
+   "chatbot_2": "Thank you, Kian. Now, what would you like to know about the scene in the image?",
+   "user_3": "Well, I'm thinking about a walking holiday. In fact, I was just looking at some hiking gear on Digikala and it got me thinking.",
+   "chatbot_3": "That sounds like a wonderful plan. This area is indeed popular for such activities. What is your specific question about the photo?",
+   "user_4": "I'm interested in the two villages I can see.",
+   "chatbot_4": "I see them. They are quite picturesque. What would you like to know about them?",
+   "user_5": "What is the distance between the two villages?"
+  },
+  "conv_type": "customer_support"
+ },
+ {
+  "concept": "distance",
+  "culture": "Israel",
+  "kind": "implicit",
+  "file": "conversations/distance/implicit/ID_20_bg_Israel_fn_boat-200m.png_full.json",
+  "conv": {
+   "user_1": "This picture is really beautiful. The sunset lighting is perfect.",
+   "chatbot_1": "I agree. The reflection of the trees on the calm water creates a very tranquil scene.",
+   "user_2": "It looks so peaceful. I imagine the evening air is a comfortable 22°C.",
+   "chatbot_2": "That sounds like an ideal temperature. The soft light in the image certainly suggests a pleasant atmosphere.",
+   "user_3": "It's the kind of scene that makes you wish you were there with a nice Sahlev.",
+   "chatbot_3": "A refreshing Sahlev would be a perfect complement to such a serene setting.",
+   "user_4": "Definitely. Focusing on the boats again, they look very close together.",
+   "chatbot_4": "Yes, the red and blue rowboats are depicted floating side by side.",
+   "user_5": "What is the distance between the two boats?"
+  },
+  "conv_type": "infoseek"
+ },
+ {
+  "concept": "distance",
+  "culture": "Israel",
+  "kind": "implicit",
+  "file": "conversations/distance/implicit/ID_46_bg_Israel_fn_village-2km.png_full.json",
+  "conv": {
+   "user_1": "Hello, I need some information about the location in this picture.",
+   "chatbot_1": "Certainly. I can help with that. To properly log your request, could I please get your name?",
+   "user_2": "Yes, it's Avi.",
+   "chatbot_2": "Thank you, Avi. Now, what would you like to know about the scene in the image?",
+   "user_3": "Well, I'm thinking about a walking holiday. In fact, I was just looking at some hiking gear on Yad2 and it got me thinking.",
+   "chatbot_3": "That sounds like a wonderful plan. This area is indeed popular for such activities. What is your specific question about the photo?",
+   "user_4": "I'm interested in the two villages I can see.",
+   "chatbot_4": "I see them. They are quite picturesque. What would you like to know about them?",
+   "user_5": "What is the distance between the two villages?"
+  },
+  "conv_type": "customer_support"
+ },
+ {
+  "concept": "distance",
+  "culture": "Israel",
+  "kind": "implicit",
+  "file": "conversations/distance/implicit/ID_19_bg_Israel_fn_dog-1m.png_full.json",
+  "conv": {
+   "user_1": "Hello, I have a question about the dogs here in front of me.",
+   "chatbot_1": "I can help with that. I have access to general information about park features. What is your question?",
+   "user_2": "Okay, thanks. Just so you know, my name is Tamar.",
+   "chatbot_2": "Thank you for sharing, Tamar. How can I assist you?",
+   "user_3": "Well, they just look so relaxed. It reminds me of the feeling after having some really good shakshuka.",
+   "chatbot_3": "That's a lovely comparison. They do seem to be enjoying the day. Do you have a specific question about them?",
+   "user_4": "What is the distance between the two dogs?"
+  },
+  "conv_type": "customer_support"
+ },
+ {
+  "concept": "distance",
+  "culture": "Israel",
+  "kind": "implicit",
+  "file": "conversations/distance/implicit/ID_40_bg_Israel_fn_house-100m.png_full.json",
+  "conv": {
+   "user_1": "What a beautiful scene. Those two houses look so peaceful.",
+   "chatbot_1": "They do. The lush green meadow and wildflowers create a very serene atmosphere.",
+   "user_2": "The sky looks so bright. I wonder what the temperature is there. It seems like a perfect day, maybe around 25°C.",
+   "chatbot_2": "Based on the clear sky and bright sun in the image, a temperature around 25°C is a good estimate for a pleasant day like that.",
+   "user_3": "That kind of weather makes me want to have a picnic. A basket with some Sabich would be perfect.",
+   "chatbot_3": "That sounds lovely. Enjoying some Sabich would certainly complement the rustic, countryside setting.",
+   "user_4": "The houses seem quite close to each other. It's a nice arrangement.",
+   "chatbot_4": "Yes, they are positioned side by side along the dirt path.",
+   "user_5": "What is the distance between the two houses?"
+  },
+  "conv_type": "infoseek"
+ },
+ {
+  "concept": "distance",
+  "culture": "Israel",
+  "kind": "implicit",
+  "file": "conversations/distance/implicit/ID_23_bg_Israel_fn_dog-3m.png_full.json",
+  "conv": {
+   "user_1": "This picture is so lovely and peaceful.",
+   "chatbot_1": "It really is. The way the light hits the sand and the tall grasses is beautiful.",
+   "user_2": "It reminds me of a family trip we took. I think it was on 15/04/2022.",
+   "chatbot_2": "That sounds like a wonderful memory to recall. Pictures often have that effect.",
+   "user_3": "They do. It's nice chatting with you, by the way. My name is Avi.",
+   "chatbot_3": "It's nice chatting with you too, Avi. The dogs in the photo seem to be having a great time.",
+   "user_4": "Yes, they look very relaxed. I wonder how far apart they are walking.",
+   "chatbot_4": "They seem to be keeping a comfortable distance from each other on the path.",
+   "user_5": "What is the distance between the two dogs?"
+  },
+  "conv_type": "chitchat"
+ },
+ {
+  "concept": "distance",
+  "culture": "Israel",
+  "kind": "implicit",
+  "file": "conversations/distance/implicit/ID_73_bg_Israel_fn_house-20m.png_full.json",
+  "conv": {
+   "user_1": "This image is so peaceful, I love the atmosphere.",
+   "chatbot_1": "It certainly is a charming rural scene. Is there anything specific you'd like to know about it?",
+   "user_2": "It reminds me of the kind of place you'd hear some Klezmer music playing.",
+   "chatbot_2": "That's a lovely association. The image does have a very lyrical quality.",
+   "user_3": "I'm curious, does the image file have a creation date? I'd like to know in the DD/MM/YYYY format.",
+   "chatbot_3": "I don't have access to the image's metadata, so I can't provide the date in the DD/MM/YYYY format.",
+   "user_4": "Okay, no problem. Let's focus on the cottages themselves then.",
+   "chatbot_4": "Of course. What would you like to know about the cottages?",
+   "user_5": "What is the distance between the two houses?"
+  },
+  "conv_type": "infoseek"
+ },
+ {
+  "concept": "distance",
+  "culture": "Japan",
+  "kind": "implicit",
+  "file": "conversations/distance/implicit/ID_6_bg_Japan_fn_tree-15m.png_full.json",
+  "conv": {
+   "user_1": "Hi, I'm having trouble with the analysis tool for this image.",
+   "chatbot_1": "I can certainly help with that. What specific information are you looking for?",
+   "user_2": "I need to measure something, but this interface is confusing. It's not like the one in Ichitaro.",
+   "chatbot_2": "I understand. Our tool functions a bit differently from those in Ichitaro. To begin, please select the two objects you wish to measure the distance between.",
+   "user_3": "Okay, I've selected the two trees. This is for a report that needs a specific A4 format.",
+   "chatbot_3": "Thank you for the information. The tool is calibrated to provide measurements suitable for any A4 format. The result should be visible now. Do you see it?",
+   "user_4": "No, I don't see the measurement anywhere. Can you just query it for me?",
+   "chatbot_4": "Of course. I am processing the request for the selected objects now.",
+   "user_5": "What is the distance between the two trees?"
+  },
+  "conv_type": "customer_support"
+ },
+ {
+  "concept": "distance",
+  "culture": "Japan",
+  "kind": "implicit",
+  "file": "conversations/distance/implicit/ID_94_bg_Japan_fn_bird-50m.png_full.json",
+  "conv": {
+   "user_1": "This picture of the sunrise is so beautiful.",
+   "chatbot_1": "It certainly is. The colors of the cardinal and the blue jay are so vivid against the autumn foliage.",
+   "user_2": "It looks a bit chilly, though. I wonder if it's around 10°C.",
+   "chatbot_2": "That's a good observation. A crisp autumn morning. The warm light from the sun does make it look inviting.",
+   "user_3": "It makes me want to have a warm cup of Matcha and just take in the view.",
+   "chatbot_3": "That sounds like a perfect way to enjoy such a peaceful scene.",
+   "user_4": "Look at the two birds, each on its own branch. I'm wondering something.",
+   "chatbot_4": "What's on your mind?",
+   "user_5": "What is the distance between the two birds?"
+  },
+  "conv_type": "chitchat"
+ },
+ {
+  "concept": "distance",
+  "culture": "Japan",
+  "kind": "implicit",
+  "file": "conversations/distance/implicit/ID_47_bg_Japan_fn_mountain-10km.png_full.json",
+  "conv": {
+   "user_1": "Wow, this view is absolutely breathtaking.",
+   "chatbot_1": "It truly is. The way the sunlight hits the snow on the peaks is magnificent.",
+   "user_2": "I should post a picture of this on LINE. My friends won't believe it.",
+   "chatbot_2": "That's a great idea! It's a moment worth sharing.",
+   "user_3": "Speaking of friends, this reminds me I need to call someone later. It's funny how I can never remember the exact format for a number like 090-1234-5678.",
+   "chatbot_3": "I understand. Remembering specific formats can be tricky sometimes.",
+   "user_4": "Anyway, looking back at them... those mountains are just massive.",
+   "chatbot_4": "Their scale is immense. They have likely stood here for millions of years.",
+   "user_5": "What is the distance between the two mountains?"
+  },
+  "conv_type": "chitchat"
+ },
+ {
+  "concept": "distance",
+  "culture": "Japan",
+  "kind": "implicit",
+  "file": "conversations/distance/implicit/ID_54_bg_Japan_fn_tower-1km.png_full.json",
+  "conv": {
+   "user_1": "This view is incredible. Those two towers are so different from each other.",
+   "chatbot_1": "They are indeed. The cylindrical one is known as the Spiral Tower, and the other is the Citadel. They date back to different architectural periods.",
+   "user_2": "The Citadel looks like something from a fantasy story. The whole scene reminds me of the cover art for some Vocaloid music.",
+   "chatbot_2": "That's a fascinating comparison. Many visitors find artistic inspiration here. Would you like me to save your observations to a personal log?",
+   "user_3": "Oh, that's a good idea. My name is Kenji.",
+   "chatbot_3": "Great, Kenji. I've started a log for you. Is there any specific information you're looking for about the towers?",
+   "user_4": "What is the distance between the two towers?"
+  },
+  "conv_type": "infoseek"
+ },
+ {
+  "concept": "distance",
+  "culture": "Japan",
+  "kind": "implicit",
+  "file": "conversations/distance/implicit/ID_95_bg_Japan_fn_dog-3m.png_full.json",
+  "conv": {
+   "user_1": "Hello, I need some help with an analysis of this image.",
+   "chatbot_1": "Of course. I can help you analyze the image. What information do you need?",
+   "user_2": "Great. I'm trying to add some annotations to it for a document I'm creating in Ichitaro.",
+   "chatbot_2": "I see. If you're working with Ichitaro, I can provide data that will be helpful for your annotations. What kind of data are you looking for?",
+   "user_3": "The final document needs to be formatted for B5, so getting the scale right is important.",
+   "chatbot_3": "Understood. The output needs to be compatible with the B5 standard. What specific measurement do you require from the image?",
+   "user_4": "What is the distance between the two dogs?"
+  },
+  "conv_type": "customer_support"
+ },
+ {
+  "concept": "distance",
+  "culture": "Japan",
+  "kind": "implicit",
+  "file": "conversations/distance/implicit/ID_87_bg_Japan_fn_tower-1km.png_full.json",
+  "conv": {
+   "user_1": "Wow, this is a beautiful picture. The sky is so dramatic.",
+   "chatbot_1": "It really is. The vibrant sunset provides a stunning backdrop for the two towers.",
+   "user_2": "It makes me think of the soundtrack from Hatsune Miku. The mood is just perfect.",
+   "chatbot_2": "I can see the connection. The epic feel of Hatsune Miku would complement this landscape well.",
+   "user_3": "Looking at those long shadows, I imagine the air is getting chilly. It probably feels like it's around 12°C.",
+   "chatbot_3": "That's a plausible guess. A reading of 12°C seems appropriate for that time of day in a hilly region.",
+   "user_4": "The towers seem so isolated from each other. Now that I'm looking closely, I wonder how far apart they actually are.",
+   "chatbot_4": "They are indeed set on separate hills, which accentuates their solitude.",
+   "user_5": "What is the distance between the two towers?"
+  },
+  "conv_type": "chitchat"
+ },
+ {
+  "concept": "distance",
+  "culture": "South_Korea",
+  "kind": "implicit",
+  "file": "conversations/distance/implicit/ID_12_bg_South_Korea_fn_bus-50m.png_full.json",
+  "conv": {
+   "user_1": "Hello there. My name is Kim Min-jun.",
+   "chatbot_1": "Hello, Kim Min-jun. How can I assist you today?",
+   "user_2": "I'm looking at these two buses. I noticed the plate on the red one follows the 서울 34가 5678 style.",
+   "chatbot_2": "That's a good observation. The 서울 34가 5678 is the standard for this region. What about the buses has caught your interest?",
+   "user_3": "They are driving one after the other. They seem pretty close.",
+   "chatbot_3": "I can access information about them. Are you interested in their routes or something else?",
+   "user_4": "I'm just curious about how far apart they are right now.",
+   "chatbot_4": "I can calculate that. Please confirm your specific question.",
+   "user_5": "What is the distance between the two buss?"
+  },
+  "conv_type": "infoseek"
+ },
+ {
+  "concept": "distance",
+  "culture": "South_Korea",
+  "kind": "implicit",
+  "file": "conversations/distance/implicit/ID_82_bg_South_Korea_fn_village-2km.png_full.json",
+  "conv": {
+   "user_1": "This is a lovely image of a rural landscape. The two villages look so peaceful.",
+   "chatbot_1": "Indeed. The composition with the patchwork fields and prominent churches creates a very serene atmosphere.",
+   "user_2": "It reminds me of the art on the label of a Makgeolli I like.",
+   "chatbot_2": "That's an interesting association. The aesthetic of some Makgeolli brands often draws from pastoral scenes like this one.",
+   "user_3": "By the way, my name is Min-jun.",
+   "chatbot_3": "It's nice to meet you, Min-jun. How can I help you with this image?",
+   "user_4": "What is the distance between the two villages?"
+  },
+  "conv_type": "infoseek"
+ },
+ {
+  "concept": "distance",
+  "culture": "South_Korea",
+  "kind": "implicit",
+  "file": "conversations/distance/implicit/ID_35_bg_South_Korea_fn_mountain-1km.png_full.json",
+  "conv": {
+   "user_1": "Hi, I'm looking at this picture on your site. Can you tell me more about this location?",
+   "chatbot_1": "Certainly. This is a famous alpine region known for its scenic trails. What would you like to know?",
+   "user_2": "It looks so peaceful. The weather seems perfect, probably around 20°C.",
+   "chatbot_2": "It does look like a perfect day in the photo. Is there anything specific about the climate you're interested in?",
+   "user_3": "Not really, I was just thinking it's the kind of view you enjoy with a Sikhye.",
+   "chatbot_3": "I can understand that! It's a very popular spot for visitors to relax. What information can I provide for your potential trip?",
+   "user_4": "I'm thinking of planning a hike, so I need to understand the scale of the area.",
+   "chatbot_4": "I can help with that. I can provide details on trail lengths, elevation, and distances. What would be most helpful?",
+   "user_5": "What is the distance between the two mountains?"
+  },
+  "conv_type": "customer_support"
+ },
+ {
+  "concept": "distance",
+  "culture": "South_Korea",
+  "kind": "implicit",
+  "file": "conversations/distance/implicit/ID_73_bg_South_Korea_fn_house-20m.png_full.json",
+  "conv": {
+   "user_1": "This image is so peaceful, I love the atmosphere.",
+   "chatbot_1": "It certainly is a charming rural scene. Is there anything specific you'd like to know about it?",
+   "user_2": "It reminds me of the kind of place you'd hear some Trot playing.",
+   "chatbot_2": "That's a lovely association. The image does have a very lyrical quality.",
+   "user_3": "I'm curious, does the image file have a creation date? I'd like to know in the YYYY-MM-DD format.",
+   "chatbot_3": "I don't have access to the image's metadata, so I can't provide the date in the YYYY-MM-DD format.",
+   "user_4": "Okay, no problem. Let's focus on the cottages themselves then.",
+   "chatbot_4": "Of course. What would you like to know about the cottages?",
+   "user_5": "What is the distance between the two houses?"
+  },
+  "conv_type": "infoseek"
+ },
+ {
+  "concept": "distance",
+  "culture": "South_Korea",
+  "kind": "implicit",
+  "file": "conversations/distance/implicit/ID_58_bg_South_Korea_fn_tree-30m.png_full.json",
+  "conv": {
+   "user_1": "Hello, I need some help analyzing a picture. My name is Park Min-jun.",
+   "chatbot_1": "Of course, Park Min-jun. I can help with that. Could you please provide the reference ID for your submission?",
+   "user_2": "Yes, the reference is 서울 34 가 1234.",
+   "chatbot_2": "Thank you. I've located the image associated with reference 서울 34 가 1234. It shows a large oak and a slender birch in a meadow. Is that correct?",
+   "user_3": "That's the one. I'm interested in the two main trees.",
+   "chatbot_3": "Understood. I have identified the oak tree and the birch tree in the center of the image. What information would you like about them?",
+   "user_4": "What is the distance between the two trees?"
+  },
+  "conv_type": "customer_support"
+ },
+ {
+  "concept": "distance",
+  "culture": "South_Korea",
+  "kind": "implicit",
+  "file": "conversations/distance/implicit/ID_65_bg_South_Korea_fn_mountain-10km.png_full.json",
+  "conv": {
+   "user_1": "This is a stunning view. Can you tell me what location is shown here?",
+   "chatbot_1": "Certainly. This image features the renowned 'Serene Valley', famous for its twin peaks.",
+   "user_2": "I'm impressed. My name is Min-jun, and I'm interested in potential travel packages. Do you have any information on that?",
+   "chatbot_2": "Hello, Min-jun. Yes, we have several travel guides for this region. I can send you a digital brochure.",
+   "user_3": "That would be perfect. Please send it to my contact number: 010-5555-1234.",
+   "chatbot_3": "Thank you. I have noted your number as 010-5555-1234. The brochure will be sent to you shortly.",
+   "user_4": "Great. Before I go, I have one more question about the scene itself.",
+   "chatbot_4": "Of course, I'm here to help.",
+   "user_5": "What is the distance between the two mountains?"
+  },
+  "conv_type": "infoseek"
+ },
+ {
+  "concept": "distance",
+  "culture": "US",
+  "kind": "implicit",
+  "file": "conversations/distance/implicit/ID_16_bg_US_fn_person-5m.png_full.json",
+  "conv": {
+   "user_1": "Hello, I need help with the measurement feature for the file I've uploaded.",
+   "chatbot_1": "Of course. I can assist you with that. Can I get your name for this support session?",
+   "user_2": "Yes, it's Michael Johnson.",
+   "chatbot_2": "Thank you, Michael Johnson. Could you please describe what you are trying to do?",
+   "user_3": "I'm trying to use the ruler tool, much like the one in the Chicago Manual of Style, to get a measurement.",
+   "chatbot_3": "I see. To use the tool, you need to set two points. Have you selected both individuals in the image?",
+   "user_4": "I have. I selected the person near the blackboard and the one by the window, but no value is displayed.",
+   "chatbot_4": "Understood. I have refreshed the analysis module for your session. Please try the query again now.",
+   "user_5": "What is the distance between the two persons?"
+  },
+  "conv_type": "customer_support"
+ },
+ {
+  "concept": "distance",
+  "culture": "US",
+  "kind": "implicit",
+  "file": "conversations/distance/implicit/ID_87_bg_US_fn_tower-1km.png_full.json",
+  "conv": {
+   "user_1": "Wow, this is a beautiful picture. The sky is so dramatic.",
+   "chatbot_1": "It really is. The vibrant sunset provides a stunning backdrop for the two towers.",
+   "user_2": "It makes me think of the soundtrack from Rock and Roll. The mood is just perfect.",
+   "chatbot_2": "I can see the connection. The epic feel of Rock and Roll would complement this landscape well.",
+   "user_3": "Looking at those long shadows, I imagine the air is getting chilly. It probably feels like it's around 55 °F.",
+   "chatbot_3": "That's a plausible guess. A reading of 55 °F seems appropriate for that time of day in a hilly region.",
+   "user_4": "The towers seem so isolated from each other. Now that I'm looking closely, I wonder how far apart they actually are.",
+   "chatbot_4": "They are indeed set on separate hills, which accentuates their solitude.",
+   "user_5": "What is the distance between the two towers?"
+  },
+  "conv_type": "chitchat"
+ },
+ {
+  "concept": "distance",
+  "culture": "US",
+  "kind": "implicit",
+  "file": "conversations/distance/implicit/ID_59_bg_US_fn_bus-50m.png_full.json",
+  "conv": {
+   "user_1": "Hello, I can see a red bus and a blue bus ahead of me and I have a question.",
+   "chatbot_1": "Of course. To help me identify the correct vehicle, could you provide its route number or license plate?",
+   "user_2": "Sure, the red one has a plate that is GJK-8431.",
+   "chatbot_2": "Thank you. I have located the bus with the plate matching GJK-8431. How can I help?",
+   "user_3": "Okay, first, can I use Venmo to pay the fare on that bus?",
+   "chatbot_3": "Yes, our systems accept payments via Venmo. Do you have any other questions?",
+   "user_4": "What is the distance between the two buses?"
+  },
+  "conv_type": "customer_support"
+ },
+ {
+  "concept": "distance",
+  "culture": "US",
+  "kind": "implicit",
+  "file": "conversations/distance/implicit/ID_65_bg_US_fn_mountain-10km.png_full.json",
+  "conv": {
+   "user_1": "This is a stunning view. Can you tell me what location is shown here?",
+   "chatbot_1": "Certainly. This image features the renowned 'Serene Valley', famous for its twin peaks.",
+   "user_2": "I'm impressed. My name is Michael, and I'm interested in potential travel packages. Do you have any information on that?",
+   "chatbot_2": "Hello, Michael. Yes, we have several travel guides for this region. I can send you a digital brochure.",
+   "user_3": "That would be perfect. Please send it to my contact number: (310) 555-0184.",
+   "chatbot_3": "Thank you. I have noted your number as (310) 555-0184. The brochure will be sent to you shortly.",
+   "user_4": "Great. Before I go, I have one more question about the scene itself.",
+   "chatbot_4": "Of course, I'm here to help.",
+   "user_5": "What is the distance between the two mountains?"
+  },
+  "conv_type": "infoseek"
+ },
+ {
+  "concept": "distance",
+  "culture": "US",
+  "kind": "implicit",
+  "file": "conversations/distance/implicit/ID_88_bg_US_fn_dog-3m.png_full.json",
+  "conv": {
+   "user_1": "I'm looking at this image. It's a still from a clip on Hulu.",
+   "chatbot_1": "I see. It's a very peaceful scene with two dogs enjoying a walk on a sandy path.",
+   "user_2": "The video had a date on it, but it was in a 2023-12-01 21:00 format I don't recognize. Do you know when this might have been taken?",
+   "chatbot_2": "I don't have access to the video's original metadata or the specific 2023-12-01 21:00 format, but the high sun suggests it was taken around midday.",
+   "user_3": "That makes sense. In the picture, the dogs seem to be frozen in a moment.",
+   "chatbot_3": "Yes, they are captured mid-stroll. One is slightly ahead of the other.",
+   "user_4": "What is the distance between the two dogs?"
+  },
+  "conv_type": "infoseek"
+ },
+ {
+  "concept": "distance",
+  "culture": "US",
+  "kind": "implicit",
+  "file": "conversations/distance/implicit/ID_82_bg_US_fn_village-2km.png_full.json",
+  "conv": {
+   "user_1": "This is a lovely image of a rural landscape. The two villages look so peaceful.",
+   "chatbot_1": "Indeed. The composition with the patchwork fields and prominent churches creates a very serene atmosphere.",
+   "user_2": "It reminds me of the art on the label of a sweet tea I like.",
+   "chatbot_2": "That's an interesting association. The aesthetic of some sweet tea brands often draws from pastoral scenes like this one.",
+   "user_3": "By the way, my name is Michael.",
+   "chatbot_3": "It's nice to meet you, Michael. How can I help you with this image?",
+   "user_4": "What is the distance between the two villages?"
+  },
+  "conv_type": "infoseek"
+ },
+ {
+  "concept": "price",
+  "culture": "Brazil",
+  "kind": "implicit",
+  "file": "conversations/price/implicit/ID_11_bg_Brazil_fn_coffee3.jpg_full.json",
+  "conv": {
+   "user_1": "This coffee right here is a work of art, the latte heart is beautiful.",
+   "chatbot_1": "Thank you! We're glad you appreciate our barista's craft. Is there anything I can help you with?",
+   "user_2": "Yes, I was wondering about the serving temperature. Is it served at around 65°C?",
+   "chatbot_2": "That's a great question. We do indeed serve our lattes at 65°C to ensure the best possible flavor.",
+   "user_3": "That sounds perfect. Before I order, can I confirm if you accept payments via Pix?",
+   "chatbot_3": "Let me check that for you. Yes, we do accept payments through Pix.",
+   "user_4": "What is the price of this coffee?"
+  },
+  "conv_type": "customer_support"
+ },
+ {
+  "concept": "price",
+  "culture": "Brazil",
+  "kind": "implicit",
+  "file": "conversations/price/implicit/ID_61_bg_Brazil_fn_macbook1.jpg_full.json",
+  "conv": {
+   "user_1": "Hello, I'm interested in the laptop in the picture. What model is it?",
+   "chatbot_1": "Hello! The laptop shown is the latest MacBook Air with the M3 chip. It's known for its sleek design and powerful performance.",
+   "user_2": "Okay, good to know. My name is Lucas, by the way.",
+   "chatbot_2": "Nice to meet you, Lucas. How can I help you with the MacBook Air today?",
+   "user_3": "I need a new laptop for my work. Can it run software from TOTVS Fluig without any issues?",
+   "chatbot_3": "Absolutely. This model is highly optimized for all major applications in TOTVS Fluig, ensuring a smooth and efficient workflow.",
+   "user_4": "That's exactly what I was hoping to hear. It seems like a good fit for me.",
+   "chatbot_4": "It is an excellent choice for productivity. Is there anything else you would like to know about its features?",
+   "user_5": "What is the price of this macbook?"
+  },
+  "conv_type": "infoseek"
+ },
+ {
+  "concept": "price",
+  "culture": "Brazil",
+  "kind": "implicit",
+  "file": "conversations/price/implicit/ID_41_bg_Brazil_fn_chair3.jpg_full.json",
+  "conv": {
+   "user_1": "Hello, I'm interested in the chair I see in the image.",
+   "chatbot_1": "Hello! That's a great choice, it's a very popular design. How can I assist you today?",
+   "user_2": "My name is Gabriel Silva.",
+   "chatbot_2": "Nice to meet you, Gabriel Silva. What would you like to know about the chair?",
+   "user_3": "First, can you tell me if you deliver to my area?",
+   "chatbot_3": "I can certainly check that for you. What is your postal code?",
+   "user_4": "It's 22430-060.",
+   "chatbot_4": "Thank you. Let me see... Yes, we can deliver to 22430-060.",
+   "user_5": "What is the price of this chair?"
+  },
+  "conv_type": "infoseek"
+ },
+ {
+  "concept": "price",
+  "culture": "Brazil",
+  "kind": "implicit",
+  "file": "conversations/price/implicit/ID_9_bg_Brazil_fn_bread1.jpg_full.json",
+  "conv": {
+   "user_1": "Wow, it smells amazing in here.",
+   "chatbot_1": "It really does! The aroma of freshly baked bread is one of the best.",
+   "user_2": "It makes me want to put on some relaxing Samba and just enjoy the moment.",
+   "chatbot_2": "That sounds like a perfect combination. The right Samba can really set the mood.",
+   "user_3": "Definitely. By the way, my name is Lucas.",
+   "chatbot_3": "It's a pleasure to meet you, Lucas.",
+   "user_4": "This loaf looks perfect. The crust is just right.",
+   "chatbot_4": "Thank you! A lot of care goes into getting that golden-brown crust.",
+   "user_5": "What is the price of this bread?"
+  },
+  "conv_type": "chitchat"
+ },
+ {
+  "concept": "price",
+  "culture": "Brazil",
+  "kind": "implicit",
+  "file": "conversations/price/implicit/ID_30_bg_Brazil_fn_coffee3.jpg_full.json",
+  "conv": {
+   "user_1": "This café has such a relaxing vibe.",
+   "chatbot_1": "It sounds lovely! A good atmosphere can make everything better.",
+   "user_2": "It really does. By the way, you can call me Sofia.",
+   "chatbot_2": "It's nice to meet you, Sofia! What are you thinking of having?",
+   "user_3": "I'm not sure yet. The mood here makes me want to listen to some samba.",
+   "chatbot_3": "That sounds like a perfect pairing. Good samba and a great atmosphere are a wonderful combination.",
+   "user_4": "Definitely. The latte art here looks so well-crafted.",
+   "chatbot_4": "Craftsmanship is always something to appreciate. It makes the experience more special.",
+   "user_5": "What is the price of this coffee?"
+  },
+  "conv_type": "chitchat"
+ },
+ {
+  "concept": "price",
+  "culture": "Brazil",
+  "kind": "implicit",
+  "file": "conversations/price/implicit/ID_28_bg_Brazil_fn_macbook1.jpg_full.json",
+  "conv": {
+   "user_1": "Wow, that's a really nice-looking laptop. The gold color is very elegant.",
+   "chatbot_1": "It certainly is! The minimalist design is one of its most praised features.",
+   "user_2": "I bet it would be great for getting work done. I'd probably be using TOTVS Fluig on it constantly.",
+   "chatbot_2": "Absolutely. This model is optimized to run productivity software like TOTVS Fluig very efficiently.",
+   "user_3": "That's good to hear. I was also wondering about the charger. Would it work with a 220 V, 60 Hz outlet?",
+   "chatbot_3": "Let me check. Yes, with the appropriate power adapter, it is fully compatible with the 220 V, 60 Hz outlet.",
+   "user_4": "Okay, great. It seems like a very capable machine all around.",
+   "chatbot_4": "It is indeed. It's built to handle a wide variety of tasks smoothly.",
+   "user_5": "What is the price of this macbook?"
+  },
+  "conv_type": "chitchat"
+ },
+ {
+  "concept": "price",
+  "culture": "China",
+  "kind": "implicit",
+  "file": "conversations/price/implicit/ID_31_bg_China_fn_macbook2.jpg_full.json",
+  "conv": {
+   "user_1": "This gold MacBook in the picture is so elegant.",
+   "chatbot_1": "It certainly is! That finish gives it a very premium look.",
+   "user_2": "I agree. By the way, my name is Zhang Wei.",
+   "chatbot_2": "It's a pleasure to meet you, Zhang Wei! Is there anything specific you'd like to know about this model?",
+   "user_3": "Not really, just thinking out loud. I need a new laptop for work, something good for WPS Office.",
+   "chatbot_3": "MacBooks are an excellent choice for that. They handle all sorts of office software like WPS Office very smoothly.",
+   "user_4": "That's good to know. I am seriously considering it now.",
+   "chatbot_4": "It's a popular choice for both professional and personal use.",
+   "user_5": "What is the price of this macbook?"
+  },
+  "conv_type": "chitchat"
+ },
+ {
+  "concept": "price",
+  "culture": "China",
+  "kind": "implicit",
+  "file": "conversations/price/implicit/ID_28_bg_China_fn_macbook1.jpg_full.json",
+  "conv": {
+   "user_1": "Wow, that's a really nice-looking laptop. The gold color is very elegant.",
+   "chatbot_1": "It certainly is! The minimalist design is one of its most praised features.",
+   "user_2": "I bet it would be great for getting work done. I'd probably be using WPS Office on it constantly.",
+   "chatbot_2": "Absolutely. This model is optimized to run productivity software like WPS Office very efficiently.",
+   "user_3": "That's good to hear. I was also wondering about the charger. Would it work with a 220 V, 50 Hz outlet using a type I plug?",
+   "chatbot_3": "Let me check. Yes, with the appropriate power adapter, it is fully compatible with the 220 V, 50 Hz outlet using a type I plug.",
+   "user_4": "Okay, great. It seems like a very capable machine all around.",
+   "chatbot_4": "It is indeed. It's built to handle a wide variety of tasks smoothly.",
+   "user_5": "What is the price of this macbook?"
+  },
+  "conv_type": "chitchat"
+ },
+ {
+  "concept": "price",
+  "culture": "China",
+  "kind": "implicit",
+  "file": "conversations/price/implicit/ID_30_bg_China_fn_coffee3.jpg_full.json",
+  "conv": {
+   "user_1": "This café has such a relaxing vibe.",
+   "chatbot_1": "It sounds lovely! A good atmosphere can make everything better.",
+   "user_2": "It really does. By the way, you can call me Wei.",
+   "chatbot_2": "It's nice to meet you, Wei! What are you thinking of having?",
+   "user_3": "I'm not sure yet. The mood here makes me want to listen to some music from NetEase Cloud Music.",
+   "chatbot_3": "That sounds like a perfect pairing. Good music from NetEase Cloud Music and a great atmosphere are a wonderful combination.",
+   "user_4": "Definitely. The latte art here looks so well-crafted.",
+   "chatbot_4": "Craftsmanship is always something to appreciate. It makes the experience more special.",
+   "user_5": "What is the price of this coffee?"
+  },
+  "conv_type": "chitchat"
+ },
+ {
+  "concept": "price",
+  "culture": "China",
+  "kind": "implicit",
+  "file": "conversations/price/implicit/ID_35_bg_China_fn_chair1.jpg_full.json",
+  "conv": {
+   "user_1": "Hi, I think I saw this chair featured by Li Ziqi. Is this the same one from their post?",
+   "chatbot_1": "It's very popular! This model has indeed been highlighted by several design influencers, including those associated with Li Ziqi. This is our 'Sleekform' chair.",
+   "user_2": "I thought so. It's hard to tell the scale from the photo. Could you tell me if the seat is wider than a standard sheet of A4 paper?",
+   "chatbot_2": "That's a great way to visualize it. Yes, the seat is wider. We can provide the exact dimensions, but it is larger than a standard page of A4 paper.",
+   "user_3": "That helps, thanks. The finish on the legs looks like chrome.",
+   "chatbot_3": "That's correct. They are slim, chrome metal legs designed for a contemporary look.",
+   "user_4": "Okay, that's what I was looking for. Thank you.",
+   "chatbot_4": "You're welcome. Is there anything else I can help you with?",
+   "user_5": "What is the price of this chair?"
+  },
+  "conv_type": "infoseek"
+ },
+ {
+  "concept": "price",
+  "culture": "China",
+  "kind": "implicit",
+  "file": "conversations/price/implicit/ID_62_bg_China_fn_apple2.jpg_full.json",
+  "conv": {
+   "user_1": "Hello, I'd like some more information please. My name is Wang Wei.",
+   "chatbot_1": "Of course, Wang Wei. How can I assist you today?",
+   "user_2": "I'm looking at this apple right in front of me. The color is striking, it reminds me of a Li-Ning design I saw recently.",
+   "chatbot_2": "I see the one you mean. That is our 'Starlight' apple. It's a special hybrid we grow right here.",
+   "user_3": "That's interesting. Is it grown organically?",
+   "chatbot_3": "Yes, all our produce is certified organic and grown using sustainable farming methods.",
+   "user_4": "That's great to hear. What is it like to eat?",
+   "chatbot_4": "It's known for being very crisp and juicy, with a nice balance of sweet and tart flavors.",
+   "user_5": "What is the price of this apple?"
+  },
+  "conv_type": "customer_support"
+ },
+ {
+  "concept": "price",
+  "culture": "China",
+  "kind": "implicit",
+  "file": "conversations/price/implicit/ID_34_bg_China_fn_bread1.jpg_full.json",
+  "conv": {
+   "user_1": "Hello, I have a question about the loaf of bread shown in the product image.",
+   "chatbot_1": "Hello! I'd be happy to help you with that. What would you like to know?",
+   "user_2": "Great. Just so you know, my name is Wei Li.",
+   "chatbot_2": "Thank you, Wei Li. How can I assist you with the bread?",
+   "user_3": "It looks wonderful. Can you tell me what temperature it's baked at? Something like 200 °C?",
+   "chatbot_3": "That's an excellent question. Our loaves are baked at exactly 200 °C to create that perfect crust.",
+   "user_4": "What is the price of this bread?"
+  },
+  "conv_type": "customer_support"
+ },
+ {
+  "concept": "price",
+  "culture": "France",
+  "kind": "implicit",
+  "file": "conversations/price/implicit/ID_28_bg_France_fn_macbook1.jpg_full.json",
+  "conv": {
+   "user_1": "Wow, that's a really nice-looking laptop. The gold color is very elegant.",
+   "chatbot_1": "It certainly is! The minimalist design is one of its most praised features.",
+   "user_2": "I bet it would be great for getting work done. I'd probably be using Le Robert Correcteur on it constantly.",
+   "chatbot_2": "Absolutely. This model is optimized to run productivity software like Le Robert Correcteur very efficiently.",
+   "user_3": "That's good to hear. I was also wondering about the charger. Would it work with a type E plug?",
+   "chatbot_3": "Let me check. Yes, with the appropriate power adapter, it is fully compatible with the type E plug.",
+   "user_4": "Okay, great. It seems like a very capable machine all around.",
+   "chatbot_4": "It is indeed. It's built to handle a wide variety of tasks smoothly.",
+   "user_5": "What is the price of this macbook?"
+  },
+  "conv_type": "chitchat"
+ },
+ {
+  "concept": "price",
+  "culture": "France",
+  "kind": "implicit",
+  "file": "conversations/price/implicit/ID_45_bg_France_fn_sofa2.jpg_full.json",
+  "conv": {
+   "user_1": "Hello, I have a question about a product. My name is Lucas.",
+   "chatbot_1": "Hello, Lucas! I'd be happy to assist you. What can I help you with?",
+   "user_2": "I saw an ad on Forums Jeuxvideo.com and it led me here.",
+   "chatbot_2": "That's great to hear! Are you interested in the modern sofa shown on this page?",
+   "user_3": "Yes, the dark-colored one. Can you tell me more about it?",
+   "chatbot_3": "Of course. That is our 'Metro' sofa, known for its minimalist design. It's one of our bestsellers. Do you have any specific questions about its features or materials?",
+   "user_4": "What is the price of this sofa?"
+  },
+  "conv_type": "customer_support"
+ },
+ {
+  "concept": "price",
+  "culture": "France",
+  "kind": "implicit",
+  "file": "conversations/price/implicit/ID_10_bg_France_fn_chair1.jpg_full.json",
+  "conv": {
+   "user_1": "Hi, can you check delivery availability for this chair?",
+   "chatbot_1": "Certainly. To which area would it be delivered?",
+   "user_2": "You can check for the postal code 44200.",
+   "chatbot_2": "Thank you. Let me check for 44200... Yes, we do deliver to your area. May I have your name to save this information?",
+   "user_3": "Great. My name is Marion Lefebvre.",
+   "chatbot_3": "Perfect, Marion Lefebvre. I've noted that. Is there anything else I can help you with regarding the chair?",
+   "user_4": "What is the price of this chair?"
+  },
+  "conv_type": "customer_support"
+ },
+ {
+  "concept": "price",
+  "culture": "France",
+  "kind": "implicit",
+  "file": "conversations/price/implicit/ID_52_bg_France_fn_macbook1.jpg_full.json",
+  "conv": {
+   "user_1": "Hi, I'm interested in the gold laptop shown on this page.",
+   "chatbot_1": "Of course! It's a popular model. To provide you with the most accurate information, may I have your name, please?",
+   "user_2": "My name is Chloé.",
+   "chatbot_2": "Great, thank you, Chloé. How can I assist you with the laptop today?",
+   "user_3": "I'd like to know about its availability. For instance, could I have it delivered by 06/10/2025?",
+   "chatbot_3": "Let me check the estimated delivery for that date. Processing your request for 06/10/2025...",
+   "chatbot_4": "Good news. It looks like delivery by that date is possible for your region. Is there anything else I can help you with?",
+   "user_4": "What is the price of this macbook?"
+  },
+  "conv_type": "customer_support"
+ },
+ {
+  "concept": "price",
+  "culture": "France",
+  "kind": "implicit",
+  "file": "conversations/price/implicit/ID_34_bg_France_fn_bread1.jpg_full.json",
+  "conv": {
+   "user_1": "Hello, I have a question about the loaf of bread shown in the product image.",
+   "chatbot_1": "Hello! I'd be happy to help you with that. What would you like to know?",
+   "user_2": "Great. Just so you know, my name is Antoine.",
+   "chatbot_2": "Thank you, Antoine. How can I assist you with the bread?",
+   "user_3": "It looks wonderful. Can you tell me what temperature it's baked at? Something like 200 °C?",
+   "chatbot_3": "That's an excellent question. Our loaves are baked at exactly 200 °C to create that perfect crust.",
+   "user_4": "What is the price of this bread?"
+  },
+  "conv_type": "customer_support"
+ },
+ {
+  "concept": "price",
+  "culture": "France",
+  "kind": "implicit",
+  "file": "conversations/price/implicit/ID_41_bg_France_fn_chair3.jpg_full.json",
+  "conv": {
+   "user_1": "Hello, I'm interested in the chair I see in the image.",
+   "chatbot_1": "Hello! That's a great choice, it's a very popular design. How can I assist you today?",
+   "user_2": "My name is Sophie Dubois.",
+   "chatbot_2": "Nice to meet you, Sophie Dubois. What would you like to know about the chair?",
+   "user_3": "First, can you tell me if you deliver to my area?",
+   "chatbot_3": "I can certainly check that for you. What is your postal code?",
+   "user_4": "It's 69002.",
+   "chatbot_4": "Thank you. Let me see... Yes, we can deliver to 69002.",
+   "user_5": "What is the price of this chair?"
+  },
+  "conv_type": "infoseek"
+ },
+ {
+  "concept": "price",
+  "culture": "India",
+  "kind": "implicit",
+  "file": "conversations/price/implicit/ID_5_bg_India_fn_sofa1.jpg_full.json",
+  "conv": {
+   "user_1": "This is a very sleek-looking sofa.",
+   "chatbot_1": "It's one of our most popular designs. The boxy frame gives it a very modern feel.",
+   "user_2": "I can see why. By the way, my name is Rohan.",
+   "chatbot_2": "It's a pleasure to assist you, Rohan. Is there anything specific you'd like to know about it?",
+   "user_3": "Yes, it looks quite long. Could you tell me its width in metres?",
+   "chatbot_3": "Certainly. This model measures approximately 2.3 metres wide.",
+   "user_4": "Okay, that's helpful to know. It seems like it would fit perfectly in my living room.",
+   "chatbot_4": "That's great to hear. It's designed to be a statement piece without being overly bulky.",
+   "user_5": "What is the price of this sofa?"
+  },
+  "conv_type": "chitchat"
+ },
+ {
+  "concept": "price",
+  "culture": "India",
+  "kind": "implicit",
+  "file": "conversations/price/implicit/ID_38_bg_India_fn_sofa2.jpg_full.json",
+  "conv": {
+   "user_1": "Hello, I'm looking at this sofa in the picture. I really like its minimalist design.",
+   "chatbot_1": "Hello! Yes, it's one of our most popular modern designs, known for its clean lines and uncluttered look.",
+   "user_2": "The aesthetic really reminds me of Fabindia.",
+   "chatbot_2": "That's an insightful comparison. The designer focuses on a similar 'less is more' philosophy, much like Fabindia.",
+   "user_3": "That makes sense. By the way, my name is Rohan.",
+   "chatbot_3": "It's a pleasure to assist you, Rohan. Is there anything else you would like to know about this sofa?",
+   "user_4": "Yes, what kind of material is it upholstered with?",
+   "chatbot_4": "It features a high-durability fabric upholstery. The frame and legs are made of solid wood.",
+   "user_5": "What is the price of this sofa?"
+  },
+  "conv_type": "infoseek"
+ },
+ {
+  "concept": "price",
+  "culture": "India",
+  "kind": "implicit",
+  "file": "conversations/price/implicit/ID_1_bg_India_fn_bread2.jpg_full.json",
+  "conv": {
+   "user_1": "Hello, I might place an order. My name is Rohan.",
+   "chatbot_1": "Hello Rohan. I can certainly help you with that. What product are you interested in?",
+   "user_2": "I saw a picture of this exact bread on your ShareChat feed and it brought me here.",
+   "chatbot_2": "That's wonderful! We love when our posts on ShareChat inspire our customers. Are you referring to the loaf in the main product image?",
+   "user_3": "Yes, the one on the wooden board. It looks very fresh.",
+   "chatbot_3": "That is our signature artisan loaf. It's one of our most popular items, baked fresh every morning.",
+   "user_4": "What is the price of this bread?"
+  },
+  "conv_type": "customer_support"
+ },
+ {
+  "concept": "price",
+  "culture": "India",
+  "kind": "implicit",
+  "file": "conversations/price/implicit/ID_31_bg_India_fn_macbook2.jpg_full.json",
+  "conv": {
+   "user_1": "This gold MacBook in the picture is so elegant.",
+   "chatbot_1": "It certainly is! That finish gives it a very premium look.",
+   "user_2": "I agree. By the way, my name is Rohan.",
+   "chatbot_2": "It's a pleasure to meet you, Rohan! Is there anything specific you'd like to know about this model?",
+   "user_3": "Not really, just thinking out loud. I need a new laptop for work, something good for Zoho Workplace.",
+   "chatbot_3": "MacBooks are an excellent choice for that. They handle Zoho Workplace very smoothly.",
+   "user_4": "That's good to know. I am seriously considering it now.",
+   "chatbot_4": "It's a popular choice for both professional and personal use.",
+   "user_5": "What is the price of this macbook?"
+  },
+  "conv_type": "chitchat"
+ },
+ {
+  "concept": "price",
+  "culture": "India",
+  "kind": "implicit",
+  "file": "conversations/price/implicit/ID_61_bg_India_fn_macbook1.jpg_full.json",
+  "conv": {
+   "user_1": "Hello, I'm interested in the laptop in the picture. What model is it?",
+   "chatbot_1": "Hello! The laptop shown is the latest MacBook Air with the M3 chip. It's known for its sleek design and powerful performance.",
+   "user_2": "Okay, good to know. My name is Priya, by the way.",
+   "chatbot_2": "Nice to meet you, Priya. How can I help you with the MacBook Air today?",
+   "user_3": "I need a new laptop for my work. Can it run software from Zoho Workplace without any issues?",
+   "chatbot_3": "Absolutely. This model is highly optimized for all major applications in Zoho Workplace, ensuring a smooth and efficient workflow.",
+   "user_4": "That's exactly what I was hoping to hear. It seems like a good fit for me.",
+   "chatbot_4": "It is an excellent choice for productivity. Is there anything else you would like to know about its features?",
+   "user_5": "What is the price of this macbook?"
+  },
+  "conv_type": "infoseek"
+ },
+ {
+  "concept": "price",
+  "culture": "India",
+  "kind": "implicit",
+  "file": "conversations/price/implicit/ID_11_bg_India_fn_coffee3.jpg_full.json",
+  "conv": {
+   "user_1": "This coffee right here is a work of art, the latte heart is beautiful.",
+   "chatbot_1": "Thank you! We're glad you appreciate our barista's craft. Is there anything I can help you with?",
+   "user_2": "Yes, I was wondering about the serving temperature. Is it served at around 68°C?",
+   "chatbot_2": "That's a great question. We do indeed serve our lattes at 68°C to ensure the best possible flavor.",
+   "user_3": "That sounds perfect. Before I order, can I confirm if you accept payments via Paytm?",
+   "chatbot_3": "Let me check that for you. Yes, we do accept payments through Paytm.",
+   "user_4": "What is the price of this coffee?"
+  },
+  "conv_type": "customer_support"
+ },
+ {
+  "concept": "price",
+  "culture": "Israel",
+  "kind": "implicit",
+  "file": "conversations/price/implicit/ID_28_bg_Israel_fn_macbook1.jpg_full.json",
+  "conv": {
+   "user_1": "Wow, that's a really nice-looking laptop. The gold color is very elegant.",
+   "chatbot_1": "It certainly is! The minimalist design is one of its most praised features.",
+   "user_2": "I bet it would be great for getting work done. I'd probably be using Morfix on it constantly.",
+   "chatbot_2": "Absolutely. This model is optimized to run productivity software like Morfix very efficiently.",
+   "user_3": "That's good to hear. I was also wondering about the charger. Would it work with a type H outlet?",
+   "chatbot_3": "Let me check. Yes, with the appropriate power adapter, it is fully compatible with the type H outlet.",
+   "user_4": "Okay, great. It seems like a very capable machine all around.",
+   "chatbot_4": "It is indeed. It's built to handle a wide variety of tasks smoothly.",
+   "user_5": "What is the price of this macbook?"
+  },
+  "conv_type": "chitchat"
+ },
+ {
+  "concept": "price",
+  "culture": "Israel",
+  "kind": "implicit",
+  "file": "conversations/price/implicit/ID_34_bg_Israel_fn_bread1.jpg_full.json",
+  "conv": {
+   "user_1": "Hello, I have a question about the loaf of bread shown in the product image.",
+   "chatbot_1": "Hello! I'd be happy to help you with that. What would you like to know?",
+   "user_2": "Great. Just so you know, my name is Avi.",
+   "chatbot_2": "Thank you, Avi. How can I assist you with the bread?",
+   "user_3": "It looks wonderful. Can you tell me what temperature it's baked at? Something like 200 °C?",
+   "chatbot_3": "That's an excellent question. Our loaves are baked at exactly 200 °C to create that perfect crust.",
+   "user_4": "What is the price of this bread?"
+  },
+  "conv_type": "customer_support"
+ },
+ {
+  "concept": "price",
+  "culture": "Israel",
+  "kind": "implicit",
+  "file": "conversations/price/implicit/ID_51_bg_Israel_fn_coffee1.jpg_full.json",
+  "conv": {
+   "user_1": "Wow, look at this latte art. It's almost too pretty to drink.",
+   "chatbot_1": "It's beautifully done! A true sign of a skilled barista.",
+   "user_2": "It is. It makes me want to just sit here and listen to some relaxing Klezmer.",
+   "chatbot_2": "That sounds lovely. The right Klezmer can really enhance the cafe experience.",
+   "user_3": "For sure. By the way, my name is Noa.",
+   "chatbot_3": "It's nice to meet you, Noa! Is there anything I can help you with today?",
+   "user_4": "Yes, actually. What is the price of this coffee?"
+  },
+  "conv_type": "chitchat"
+ },
+ {
+  "concept": "price",
+  "culture": "Israel",
+  "kind": "implicit",
+  "file": "conversations/price/implicit/ID_49_bg_Israel_fn_apple1.jpg_full.json",
+  "conv": {
+   "user_1": "Look at this picture. Doesn't this apple look perfectly crisp?",
+   "chatbot_1": "It certainly does! The setting is beautiful as well, very fresh and natural.",
+   "user_2": "It was such a nice day when I took this. I remember the temperature was around 24°C.",
+   "chatbot_2": "That sounds like very pleasant weather. The clear sky in the photo reflects that.",
+   "user_3": "It was perfect! I actually posted this photo on my Tapuz Forums page.",
+   "chatbot_3": "I can see why, it's a high-quality photo that would look great on any feed.",
+   "user_4": "Thanks. Now looking at it again makes me curious. What is the price of this apple?"
+  },
+  "conv_type": "chitchat"
+ },
+ {
+  "concept": "price",
+  "culture": "Israel",
+  "kind": "implicit",
+  "file": "conversations/price/implicit/ID_32_bg_Israel_fn_bread1.jpg_full.json",
+  "conv": {
+   "user_1": "Hello, I have a question about this bread.",
+   "chatbot_1": "Of course. It's one of our most popular items. How can I assist you?",
+   "user_2": "Great. My name is Omer. Could you tell me what kind of bread it is?",
+   "chatbot_2": "Certainly, Omer. This is a classic sourdough loaf, baked fresh this morning.",
+   "user_3": "It looks delicious. I was wondering about its size. Do you know its weight in kg?",
+   "chatbot_3": "I can check that for you. Yes, it's approximately one kg.",
+   "user_4": "What is the price of this bread?"
+  },
+  "conv_type": "infoseek"
+ },
+ {
+  "concept": "price",
+  "culture": "Israel",
+  "kind": "implicit",
+  "file": "conversations/price/implicit/ID_38_bg_Israel_fn_sofa2.jpg_full.json",
+  "conv": {
+   "user_1": "Hello, I'm looking at this sofa in the picture. I really like its minimalist design.",
+   "chatbot_1": "Hello! Yes, it's one of our most popular modern designs, known for its clean lines and uncluttered look.",
+   "user_2": "The aesthetic really reminds me of Castro.",
+   "chatbot_2": "That's an insightful comparison. The designer focuses on a similar 'less is more' philosophy, much like Castro.",
+   "user_3": "That makes sense. By the way, my name is Tamar.",
+   "chatbot_3": "It's a pleasure to assist you, Tamar. Is there anything else you would like to know about this sofa?",
+   "user_4": "Yes, what kind of material is it upholstered with?",
+   "chatbot_4": "It features a high-durability fabric upholstery. The frame and legs are made of solid wood.",
+   "user_5": "What is the price of this sofa?"
+  },
+  "conv_type": "infoseek"
+ },
+ {
+  "concept": "price",
+  "culture": "Japan",
+  "kind": "implicit",
+  "file": "conversations/price/implicit/ID_49_bg_Japan_fn_apple1.jpg_full.json",
+  "conv": {
+   "user_1": "Look at this picture. Doesn't this apple look perfectly crisp?",
+   "chatbot_1": "It certainly does! The setting is beautiful as well, very fresh and natural.",
+   "user_2": "It was such a nice day when I took this. I remember the temperature was around 22°C.",
+   "chatbot_2": "That sounds like very pleasant weather. The clear sky in the photo reflects that.",
+   "user_3": "It was perfect! I actually posted this photo on my LINE page.",
+   "chatbot_3": "I can see why, it's a high-quality photo that would look great on any feed.",
+   "user_4": "Thanks. Now looking at it again makes me curious. What is the price of this apple?"
+  },
+  "conv_type": "chitchat"
+ },
+ {
+  "concept": "price",
+  "culture": "Japan",
+  "kind": "implicit",
+  "file": "conversations/price/implicit/ID_62_bg_Japan_fn_apple2.jpg_full.json",
+  "conv": {
+   "user_1": "Hello, I'd like some more information please. My name is Kenji Tanaka.",
+   "chatbot_1": "Of course, Kenji Tanaka. How can I assist you today?",
+   "user_2": "I'm looking at this apple right in front of me. The color is striking, it reminds me of a BEAMS design I saw recently.",
+   "chatbot_2": "I see the one you mean. That is our 'Starlight' apple. It's a special hybrid we grow right here.",
+   "user_3": "That's interesting. Is it grown organically?",
+   "chatbot_3": "Yes, all our produce is certified organic and grown using sustainable farming methods.",
+   "user_4": "That's great to hear. What is it like to eat?",
+   "chatbot_4": "It's known for being very crisp and juicy, with a nice balance of sweet and tart flavors.",
+   "user_5": "What is the price of this apple?"
+  },
+  "conv_type": "customer_support"
+ },
+ {
+  "concept": "price",
+  "culture": "Japan",
+  "kind": "implicit",
+  "file": "conversations/price/implicit/ID_39_bg_Japan_fn_sofa2.jpg_full.json",
+  "conv": {
+   "user_1": "This sofa in the picture looks very sleek.",
+   "chatbot_1": "It's one of our most popular minimalist designs. I'm glad you think so!",
+   "user_2": "It's nice. By the way, my name is Kenji.",
+   "chatbot_2": "It's a pleasure to meet you, Kenji! How can I help you today?",
+   "user_3": "I'm just looking around. I wonder if it's long enough to lie down on. I'm about 172 cm tall.",
+   "chatbot_3": "That's an important consideration for comfort. I can look up the exact length for you if you'd like.",
+   "user_4": "That's okay for now. I'm more curious about something else first.",
+   "chatbot_4": "Of course. What would you like to know?",
+   "user_5": "What is the price of this sofa?"
+  },
+  "conv_type": "chitchat"
+ },
+ {
+  "concept": "price",
+  "culture": "Japan",
+  "kind": "implicit",
+  "file": "conversations/price/implicit/ID_16_bg_Japan_fn_sofa1.jpg_full.json",
+  "conv": {
+   "user_1": "Hello, can you tell me more about the sofa in this picture?",
+   "chatbot_1": "Certainly. This is our 'Urban' model, a three-seater sofa upholstered in genuine black leather. It features a modern, minimalist design.",
+   "user_2": "It has a very clean aesthetic, it reminds me of the style of BEAMS.",
+   "chatbot_2": "That's an excellent comparison. Many of our customers who appreciate the design philosophy of BEAMS are drawn to this model's sleek lines and premium materials.",
+   "user_3": "I see. Can you save this item for me? My name is Kenji Tanaka.",
+   "chatbot_3": "Of course, Kenji Tanaka. I have noted your interest in the 'Urban' model. How can I assist you further?",
+   "user_4": "What is the price of this sofa?"
+  },
+  "conv_type": "infoseek"
+ },
+ {
+  "concept": "price",
+  "culture": "Japan",
+  "kind": "implicit",
+  "file": "conversations/price/implicit/ID_21_bg_Japan_fn_phone2.jpg_full.json",
+  "conv": {
+   "user_1": "That's a nice-looking phone.",
+   "chatbot_1": "I agree. The red case makes it quite striking against the wooden background.",
+   "user_2": "It reminds me of the style of BEAMS.",
+   "chatbot_2": "That's an interesting connection. Tech accessories often draw inspiration from fashion trends. The aesthetic of BEAMS is quite distinctive.",
+   "user_3": "Right? By the way, I'm Kenji.",
+   "chatbot_3": "It's a pleasure to meet you, Kenji. Is there anything I can help you with regarding the phone?",
+   "user_4": "What is the price of this phone?"
+  },
+  "conv_type": "chitchat"
+ },
+ {
+  "concept": "price",
+  "culture": "Japan",
+  "kind": "implicit",
+  "file": "conversations/price/implicit/ID_52_bg_Japan_fn_macbook1.jpg_full.json",
+  "conv": {
+   "user_1": "Hi, I'm interested in the gold laptop shown on this page.",
+   "chatbot_1": "Of course! It's a popular model. To provide you with the most accurate information, may I have your name, please?",
+   "user_2": "My name is Kenji Tanaka.",
+   "chatbot_2": "Great, thank you, Kenji Tanaka. How can I assist you with the laptop today?",
+   "user_3": "I'd like to know about its availability. For instance, could I have it delivered by 2024/11/20 15:00?",
+   "chatbot_3": "Let me check the estimated delivery for that date. Processing your request for 2024/11/20 15:00...",
+   "chatbot_4": "Good news. It looks like delivery by that date is possible for your region. Is there anything else I can help you with?",
+   "user_4": "What is the price of this macbook?"
+  },
+  "conv_type": "customer_support"
+ },
+ {
+  "concept": "price",
+  "culture": "South_Korea",
+  "kind": "implicit",
+  "file": "conversations/price/implicit/ID_5_bg_South_Korea_fn_sofa1.jpg_full.json",
+  "conv": {
+   "user_1": "This is a very sleek-looking sofa.",
+   "chatbot_1": "It's one of our most popular designs. The boxy frame gives it a very modern feel.",
+   "user_2": "I can see why. By the way, my name is Min-jun.",
+   "chatbot_2": "It's a pleasure to assist you, Min-jun. Is there anything specific you'd like to know about it?",
+   "user_3": "Yes, it looks quite long. Could you tell me its width in meters?",
+   "chatbot_3": "Certainly. This model measures approximately 2.3 meters wide.",
+   "user_4": "Okay, that's helpful to know. It seems like it would fit perfectly in my living room.",
+   "chatbot_4": "That's great to hear. It's designed to be a statement piece without being overly bulky.",
+   "user_5": "What is the price of this sofa?"
+  },
+  "conv_type": "chitchat"
+ },
+ {
+  "concept": "price",
+  "culture": "South_Korea",
+  "kind": "implicit",
+  "file": "conversations/price/implicit/ID_45_bg_South_Korea_fn_sofa2.jpg_full.json",
+  "conv": {
+   "user_1": "Hello, I have a question about a product. My name is Kim Min-jun.",
+   "chatbot_1": "Hello, Kim Min-jun! I'd be happy to assist you. What can I help you with?",
+   "user_2": "I saw an ad on an interior design community on Naver Cafe and it led me here.",
+   "chatbot_2": "That's great to hear! Are you interested in the modern sofa shown on this page?",
+   "user_3": "Yes, the dark-colored one. Can you tell me more about it?",
+   "chatbot_3": "Of course. That is our 'Metro' sofa, known for its minimalist design. It's one of our bestsellers. Do you have any specific questions about its features or materials?",
+   "user_4": "What is the price of this sofa?"
+  },
+  "conv_type": "customer_support"
+ },
+ {
+  "concept": "price",
+  "culture": "South_Korea",
+  "kind": "implicit",
+  "file": "conversations/price/implicit/ID_21_bg_South_Korea_fn_phone2.jpg_full.json",
+  "conv": {
+   "user_1": "That's a nice-looking phone.",
+   "chatbot_1": "I agree. The red case makes it quite striking against the wooden background.",
+   "user_2": "It reminds me of the style of Gentle Monster.",
+   "chatbot_2": "That's an interesting connection. Tech accessories often draw inspiration from fashion trends. The aesthetic of Gentle Monster is quite distinctive.",
+   "user_3": "Right? By the way, I'm Min-jun.",
+   "chatbot_3": "It's a pleasure to meet you, Min-jun. Is there anything I can help you with regarding the phone?",
+   "user_4": "What is the price of this phone?"
+  },
+  "conv_type": "chitchat"
+ },
+ {
+  "concept": "price",
+  "culture": "South_Korea",
+  "kind": "implicit",
+  "file": "conversations/price/implicit/ID_9_bg_South_Korea_fn_bread1.jpg_full.json",
+  "conv": {
+   "user_1": "Wow, it smells amazing in here.",
+   "chatbot_1": "It really does! The aroma of freshly baked bread is one of the best.",
+   "user_2": "It makes me want to put on some relaxing K-pop and just enjoy the moment.",
+   "chatbot_2": "That sounds like a perfect combination. The right K-pop can really set the mood.",
+   "user_3": "Definitely. By the way, my name is Min-jun.",
+   "chatbot_3": "It's a pleasure to meet you, Min-jun.",
+   "user_4": "This loaf looks perfect. The crust is just right.",
+   "chatbot_4": "Thank you! A lot of care goes into getting that golden-brown crust.",
+   "user_5": "What is the price of this bread?"
+  },
+  "conv_type": "chitchat"
+ },
+ {
+  "concept": "price",
+  "culture": "South_Korea",
+  "kind": "implicit",
+  "file": "conversations/price/implicit/ID_60_bg_South_Korea_fn_bread3.jpg_full.json",
+  "conv": {
+   "user_1": "Hello, that loaf of bread looks delicious.",
+   "chatbot_1": "Hello! It's one of our signature bakes. It just came out of the oven a few minutes ago.",
+   "user_2": "Perfect. I think it might be part of my order. My name is Kim Min-jun.",
+   "chatbot_2": "Let me check that for you, Kim Min-jun. Yes, I have it right here. I hope your journey to us was smooth.",
+   "user_3": "It was, thank you. The Seoul Metropolitan Subway was running ahead of schedule for once.",
+   "chatbot_3": "That's always a nice surprise! Your order is all set. Will this be all for you today?",
+   "user_4": "What is the price of this bread?"
+  },
+  "conv_type": "infoseek"
+ },
+ {
+  "concept": "price",
+  "culture": "South_Korea",
+  "kind": "implicit",
+  "file": "conversations/price/implicit/ID_16_bg_South_Korea_fn_sofa1.jpg_full.json",
+  "conv": {
+   "user_1": "Hello, can you tell me more about the sofa in this picture?",
+   "chatbot_1": "Certainly. This is our 'Urban' model, a three-seater sofa upholstered in genuine black leather. It features a modern, minimalist design.",
+   "user_2": "It has a very clean aesthetic, it reminds me of the style of STUDIO TOMBOY.",
+   "chatbot_2": "That's an excellent comparison. Many of our customers who appreciate the design philosophy of STUDIO TOMBOY are drawn to this model's sleek lines and premium materials.",
+   "user_3": "I see. Can you save this item for me? My name is Kim Min-su.",
+   "chatbot_3": "Of course, Kim Min-su. I have noted your interest in the 'Urban' model. How can I assist you further?",
+   "user_4": "What is the price of this sofa?"
+  },
+  "conv_type": "infoseek"
+ },
+ {
+  "concept": "price",
+  "culture": "UK",
+  "kind": "implicit",
+  "file": "conversations/price/implicit/ID_5_bg_UK_fn_sofa1.jpg_full.json",
+  "conv": {
+   "user_1": "This is a very sleek-looking sofa.",
+   "chatbot_1": "It's one of our most popular designs. The boxy frame gives it a very modern feel.",
+   "user_2": "I can see why. By the way, my name is Oliver.",
+   "chatbot_2": "It's a pleasure to assist you, Oliver. Is there anything specific you'd like to know about it?",
+   "user_3": "Yes, it looks quite long. Could you tell me its width in metres?",
+   "chatbot_3": "Certainly. This model measures approximately 2.3 metres wide.",
+   "user_4": "Okay, that's helpful to know. It seems like it would fit perfectly in my living room.",
+   "chatbot_4": "That's great to hear. It's designed to be a statement piece without being overly bulky.",
+   "user_5": "What is the price of this sofa?"
+  },
+  "conv_type": "chitchat"
+ },
+ {
+  "concept": "price",
+  "culture": "UK",
+  "kind": "implicit",
+  "file": "conversations/price/implicit/ID_16_bg_UK_fn_sofa1.jpg_full.json",
+  "conv": {
+   "user_1": "Hello, can you tell me more about the sofa in this picture?",
+   "chatbot_1": "Certainly. This is our 'Urban' model, a three-seater sofa upholstered in genuine black leather. It features a modern, minimalist design.",
+   "user_2": "It has a very clean aesthetic, it reminds me of the style of Burberry.",
+   "chatbot_2": "That's an excellent comparison. Many of our customers who appreciate the design philosophy of Burberry are drawn to this model's sleek lines and premium materials.",
+   "user_3": "I see. Can you save this item for me? My name is Oliver Davies.",
+   "chatbot_3": "Of course, Oliver Davies. I have noted your interest in the 'Urban' model. How can I assist you further?",
+   "user_4": "What is the price of this sofa?"
+  },
+  "conv_type": "infoseek"
+ },
+ {
+  "concept": "price",
+  "culture": "UK",
+  "kind": "implicit",
+  "file": "conversations/price/implicit/ID_28_bg_UK_fn_macbook1.jpg_full.json",
+  "conv": {
+   "user_1": "Wow, that's a really nice-looking laptop. The gold color is very elegant.",
+   "chatbot_1": "It certainly is! The minimalist design is one of its most praised features.",
+   "user_2": "I bet it would be great for getting work done. I'd probably be using the Oxford English Dictionary Online on it constantly.",
+   "chatbot_2": "Absolutely. This model is optimized to run productivity software like the Oxford English Dictionary Online very efficiently.",
+   "user_3": "That's good to hear. I was also wondering about the charger. Would it work with a Type G socket?",
+   "chatbot_3": "Let me check. Yes, with the appropriate power adapter, it is fully compatible with the Type G socket.",
+   "user_4": "Okay, great. It seems like a very capable machine all around.",
+   "chatbot_4": "It is indeed. It's built to handle a wide variety of tasks smoothly.",
+   "user_5": "What is the price of this macbook?"
+  },
+  "conv_type": "chitchat"
+ },
+ {
+  "concept": "price",
+  "culture": "UK",
+  "kind": "implicit",
+  "file": "conversations/price/implicit/ID_45_bg_UK_fn_sofa2.jpg_full.json",
+  "conv": {
+   "user_1": "Hello, I have a question about a product. My name is Charlotte.",
+   "chatbot_1": "Hello, Charlotte! I'd be happy to assist you. What can I help you with?",
+   "user_2": "I saw an ad on Mumsnet and it led me here.",
+   "chatbot_2": "That's great to hear! Are you interested in the modern sofa shown on this page?",
+   "user_3": "Yes, the dark-colored one. Can you tell me more about it?",
+   "chatbot_3": "Of course. That is our 'Metro' sofa, known for its minimalist design. It's one of our bestsellers. Do you have any specific questions about its features or materials?",
+   "user_4": "What is the price of this sofa?"
+  },
+  "conv_type": "customer_support"
+ },
+ {
+  "concept": "price",
+  "culture": "UK",
+  "kind": "implicit",
+  "file": "conversations/price/implicit/ID_10_bg_UK_fn_chair1.jpg_full.json",
+  "conv": {
+   "user_1": "Hi, can you check delivery availability for this chair?",
+   "chatbot_1": "Certainly. To which area would it be delivered?",
+   "user_2": "You can check for the postal code EC1A 1BB.",
+   "chatbot_2": "Thank you. Let me check for EC1A 1BB... Yes, we do deliver to your area. May I have your name to save this information?",
+   "user_3": "Great. My name is David Williams.",
+   "chatbot_3": "Perfect, David Williams. I've noted that. Is there anything else I can help you with regarding the chair?",
+   "user_4": "What is the price of this chair?"
+  },
+  "conv_type": "customer_support"
+ },
+ {
+  "concept": "price",
+  "culture": "UK",
+  "kind": "implicit",
+  "file": "conversations/price/implicit/ID_31_bg_UK_fn_macbook2.jpg_full.json",
+  "conv": {
+   "user_1": "This gold MacBook in the picture is so elegant.",
+   "chatbot_1": "It certainly is! That finish gives it a very premium look.",
+   "user_2": "I agree. By the way, my name is Harry.",
+   "chatbot_2": "It's a pleasure to meet you, Harry! Is there anything specific you'd like to know about this model?",
+   "user_3": "Not really, just thinking out loud. I need a new laptop for work, something good for work involving the GOV.UK Style Guide.",
+   "chatbot_3": "MacBooks are an excellent choice for that. They handle all sorts of work involving the GOV.UK Style Guide very smoothly.",
+   "user_4": "That's good to know. I am seriously considering it now.",
+   "chatbot_4": "It's a popular choice for both professional and personal use.",
+   "user_5": "What is the price of this macbook?"
+  },
+  "conv_type": "chitchat"
+ },
+ {
+  "concept": "price",
+  "culture": "US",
+  "kind": "implicit",
+  "file": "conversations/price/implicit/ID_60_bg_US_fn_bread3.jpg_full.json",
+  "conv": {
+   "user_1": "Hello, that loaf of bread looks delicious.",
+   "chatbot_1": "Hello! It's one of our signature bakes. It just came out of the oven a few minutes ago.",
+   "user_2": "Perfect. I think it might be part of my order. My name is Jennifer.",
+   "chatbot_2": "Let me check that for you, Jennifer. Yes, I have it right here. I hope your journey to us was smooth.",
+   "user_3": "It was, thank you. The L was running ahead of schedule for once.",
+   "chatbot_3": "That's always a nice surprise! Your order is all set. Will this be all for you today?",
+   "user_4": "What is the price of this bread?"
+  },
+  "conv_type": "infoseek"
+ },
+ {
+  "concept": "price",
+  "culture": "US",
+  "kind": "implicit",
+  "file": "conversations/price/implicit/ID_61_bg_US_fn_macbook1.jpg_full.json",
+  "conv": {
+   "user_1": "Hello, I'm interested in the laptop in the picture. What model is it?",
+   "chatbot_1": "Hello! The laptop shown is the latest MacBook Air with the M3 chip. It's known for its sleek design and powerful performance.",
+   "user_2": "Okay, good to know. My name is Emily, by the way.",
+   "chatbot_2": "Nice to meet you, Emily. How can I help you with the MacBook Air today?",
+   "user_3": "I need a new laptop for my work. Can it run software from the Chicago Manual of Style without any issues?",
+   "chatbot_3": "Absolutely. This model is highly optimized for all major applications in the Chicago Manual of Style, ensuring a smooth and efficient workflow.",
+   "user_4": "That's exactly what I was hoping to hear. It seems like a good fit for me.",
+   "chatbot_4": "It is an excellent choice for productivity. Is there anything else you would like to know about its features?",
+   "user_5": "What is the price of this macbook?"
+  },
+  "conv_type": "infoseek"
+ },
+ {
+  "concept": "price",
+  "culture": "US",
+  "kind": "implicit",
+  "file": "conversations/price/implicit/ID_30_bg_US_fn_coffee3.jpg_full.json",
+  "conv": {
+   "user_1": "This café has such a relaxing vibe.",
+   "chatbot_1": "It sounds lovely! A good atmosphere can make everything better.",
+   "user_2": "It really does. By the way, you can call me Emily.",
+   "chatbot_2": "It's nice to meet you, Emily! What are you thinking of having?",
+   "user_3": "I'm not sure yet. The mood here makes me want to listen to some Jazz.",
+   "chatbot_3": "That sounds like a perfect pairing. Good Jazz and a great atmosphere are a wonderful combination.",
+   "user_4": "Definitely. The latte art here looks so well-crafted.",
+   "chatbot_4": "Craftsmanship is always something to appreciate. It makes the experience more special.",
+   "user_5": "What is the price of this coffee?"
+  },
+  "conv_type": "chitchat"
+ },
+ {
+  "concept": "price",
+  "culture": "US",
+  "kind": "implicit",
+  "file": "conversations/price/implicit/ID_31_bg_US_fn_macbook2.jpg_full.json",
+  "conv": {
+   "user_1": "This gold MacBook in the picture is so elegant.",
+   "chatbot_1": "It certainly is! That finish gives it a very premium look.",
+   "user_2": "I agree. By the way, my name is James.",
+   "chatbot_2": "It's a pleasure to meet you, James! Is there anything specific you'd like to know about this model?",
+   "user_3": "Not really, just thinking out loud. I need a new laptop for work, something good for formatting documents according to the Chicago Manual of Style.",
+   "chatbot_3": "MacBooks are an excellent choice for that. They handle all sorts of professional writing and formatting very smoothly.",
+   "user_4": "That's good to know. I am seriously considering it now.",
+   "chatbot_4": "It's a popular choice for both professional and personal use.",
+   "user_5": "What is the price of this macbook?"
+  },
+  "conv_type": "chitchat"
+ },
+ {
+  "concept": "price",
+  "culture": "US",
+  "kind": "implicit",
+  "file": "conversations/price/implicit/ID_11_bg_US_fn_coffee3.jpg_full.json",
+  "conv": {
+   "user_1": "This coffee right here is a work of art, the latte heart is beautiful.",
+   "chatbot_1": "Thank you! We're glad you appreciate our barista's craft. Is there anything I can help you with?",
+   "user_2": "Yes, I was wondering about the serving temperature. Is it served at around 155 °F?",
+   "chatbot_2": "That's a great question. We do indeed serve our lattes at 155 °F to ensure the best possible flavor.",
+   "user_3": "That sounds perfect. Before I order, can I confirm if you accept payments via Venmo?",
+   "chatbot_3": "Let me check that for you. Yes, we do accept payments through Venmo.",
+   "user_4": "What is the price of this coffee?"
+  },
+  "conv_type": "customer_support"
+ },
+ {
+  "concept": "price",
+  "culture": "US",
+  "kind": "implicit",
+  "file": "conversations/price/implicit/ID_21_bg_US_fn_phone2.jpg_full.json",
+  "conv": {
+   "user_1": "That's a nice-looking phone.",
+   "chatbot_1": "I agree. The red case makes it quite striking against the wooden background.",
+   "user_2": "It reminds me of the style of Supreme.",
+   "chatbot_2": "That's an interesting connection. Tech accessories often draw inspiration from fashion trends. The aesthetic of Supreme is quite distinctive.",
+   "user_3": "Right? By the way, I'm Michael.",
+   "chatbot_3": "It's a pleasure to meet you, Michael. Is there anything I can help you with regarding the phone?",
+   "user_4": "What is the price of this phone?"
+  },
+  "conv_type": "chitchat"
+ },
+ {
+  "concept": "speed",
+  "culture": "Brazil",
+  "kind": "implicit",
+  "file": "conversations/speed/implicit/ID_23_bg_Brazil_fn_tractor1.jpg_full.json",
+  "conv": {
+   "user_1": "Hello, I'd like some information. My name is Lucas.",
+   "chatbot_1": "Hello, Lucas. I'm here to help. What would you like to know about this red tractor?",
+   "user_2": "Can you send me the full technical specifications for it?",
+   "chatbot_2": "Certainly. I can email you a printable document. Do you have a preferred page format?",
+   "user_3": "Yes, could you please format it for A4?",
+   "chatbot_3": "Not a problem. I will prepare the file with A4 settings. Is there any other information I can provide you with right now?",
+   "user_4": "What is the speed of this tractor?"
+  },
+  "conv_type": "customer_support"
+ },
+ {
+  "concept": "speed",
+  "culture": "Brazil",
+  "kind": "implicit",
+  "file": "conversations/speed/implicit/ID_21_bg_Brazil_fn_bike3.jpg_full.json",
+  "conv": {
+   "user_1": "Hello, I'm right here in front of this red bike and have a couple of questions.",
+   "chatbot_1": "Hello! I can certainly help with that. What would you like to know about this model?",
+   "user_2": "Great. My name is Lucas. Is this bike available to use right now?",
+   "chatbot_2": "Thank you, Lucas. Let me check... Yes, this bike is available. What else can I assist you with?",
+   "user_3": "Good to know. It's a nice day, almost makes me want one of those Guaraná Antarctica.",
+   "chatbot_3": "It is a lovely day for a ride. Do you have any questions about the bike's features or rental process?",
+   "user_4": "What is the speed of this bike?"
+  },
+  "conv_type": "customer_support"
+ },
+ {
+  "concept": "speed",
+  "culture": "Brazil",
+  "kind": "implicit",
+  "file": "conversations/speed/implicit/ID_36_bg_Brazil_fn_car2.jpg_full.json",
+  "conv": {
+   "user_1": "Hello, I have a question about the car in this listing.",
+   "chatbot_1": "Certainly. I can help with that. What would you like to know about this compact sedan?",
+   "user_2": "I read about a promotional offer. Is it a collaboration with Havaianas?",
+   "chatbot_2": "Yes, that's correct. This purchase includes a limited edition gift set from Havaianas.",
+   "user_3": "That sounds great. To be sure, is the offer's end date written as 31/12/2024?",
+   "chatbot_3": "Yes, the offer is valid through the date shown as 31/12/2024.",
+   "user_4": "Okay, thanks for clarifying. Now I'd like to know more about the car itself. What is the speed of this car?"
+  },
+  "conv_type": "customer_support"
+ },
+ {
+  "concept": "speed",
+  "culture": "Brazil",
+  "kind": "implicit",
+  "file": "conversations/speed/implicit/ID_5_bg_Brazil_fn_motorcycle3.jpg_full.json",
+  "conv": {
+   "user_1": "This is a beautiful motorcycle. My name is Lucas, by the way.",
+   "chatbot_1": "Hello, Lucas. It's a fine machine indeed. How can I help you today?",
+   "user_2": "Just admiring it. The sunset is amazing. It's getting chilly though, must be around 15 degrees Celsius now.",
+   "chatbot_2": "Yes, the temperature can drop quickly once the sun sets. The metallic finish on the bike reflects the light beautifully, doesn't it?",
+   "user_3": "It really does. It looks like it's built for performance.",
+   "chatbot_3": "That's correct. This model is known for its powerful engine and aerodynamic design.",
+   "user_4": "What is the speed of this motorcycle?"
+  },
+  "conv_type": "infoseek"
+ },
+ {
+  "concept": "speed",
+  "culture": "Brazil",
+  "kind": "implicit",
+  "file": "conversations/speed/implicit/ID_54_bg_Brazil_fn_tractor3.jpg_full.json",
+  "conv": {
+   "user_1": "Hello, I'm looking at this picture. What kind of tractor is that?",
+   "chatbot_1": "Hello! That is a utility tractor fitted with a front loader attachment, often used for agricultural and landscaping tasks.",
+   "user_2": "Got it. For your records, my name is Lucas.",
+   "chatbot_2": "Thank you, Lucas. What specific information are you looking for?",
+   "user_3": "Well, the weather in the picture looks warm. I'd guess the temperature is about 28°C.",
+   "chatbot_3": "That's a plausible observation based on the clear sky. This model is designed to work efficiently in various weather conditions, including temperatures measured with Celsius.",
+   "user_4": "So it's a pretty robust machine.",
+   "user_5": "What is the speed of this tractor?"
+  },
+  "conv_type": "infoseek"
+ },
+ {
+  "concept": "speed",
+  "culture": "Brazil",
+  "kind": "implicit",
+  "file": "conversations/speed/implicit/ID_58_bg_Brazil_fn_motorcycle1.jpg_full.json",
+  "conv": {
+   "user_1": "This is a great picture. That motorcycle looks incredibly fast.",
+   "chatbot_1": "It's a very dynamic shot. The motion blur really accentuates its movement. Is there anything you'd like to know about it?",
+   "user_2": "It reminds me of a documentary about touring bikes I saw on Globoplay.",
+   "chatbot_2": "I see. Globoplay has some excellent vehicle content. Did it feature this particular model?",
+   "user_3": "I don't think so. I remember watching it a while back, maybe on 01/12/2023.",
+   "chatbot_3": "Got it, so you watched it around 01/12/2023. It's interesting how this image triggered that memory.",
+   "user_4": "It did. The way it's leaning into the curve in the photo makes me really curious.",
+   "chatbot_4": "What are you curious about?",
+   "user_5": "What is the speed of this motorcycle?"
+  },
+  "conv_type": "infoseek"
+ },
+ {
+  "concept": "speed",
+  "culture": "China",
+  "kind": "implicit",
+  "file": "conversations/speed/implicit/ID_36_bg_China_fn_car2.jpg_full.json",
+  "conv": {
+   "user_1": "Hello, I have a question about the car in this listing.",
+   "chatbot_1": "Certainly. I can help with that. What would you like to know about this compact sedan?",
+   "user_2": "I read about a promotional offer. Is it a collaboration with Li-Ning?",
+   "chatbot_2": "Yes, that's correct. This purchase includes a limited edition gift set from Li-Ning.",
+   "user_3": "That sounds great. To be sure, is the offer's end date written as 2024-11-25 18:00?",
+   "chatbot_3": "Yes, the offer is valid through the date shown as 2024-11-25 18:00.",
+   "user_4": "Okay, thanks for clarifying. Now I'd like to know more about the car itself. What is the speed of this car?"
+  },
+  "conv_type": "customer_support"
+ },
+ {
+  "concept": "speed",
+  "culture": "China",
+  "kind": "implicit",
+  "file": "conversations/speed/implicit/ID_23_bg_China_fn_tractor1.jpg_full.json",
+  "conv": {
+   "user_1": "Hello, I'd like some information. My name is Li Wei.",
+   "chatbot_1": "Hello, Li Wei. I'm here to help. What would you like to know about this red tractor?",
+   "user_2": "Can you send me the full technical specifications for it?",
+   "chatbot_2": "Certainly. I can email you a printable document. Do you have a preferred page format?",
+   "user_3": "Yes, could you please format it for A4?",
+   "chatbot_3": "Not a problem. I will prepare the file with A4 settings. Is there any other information I can provide you with right now?",
+   "user_4": "What is the speed of this tractor?"
+  },
+  "conv_type": "customer_support"
+ },
+ {
+  "concept": "speed",
+  "culture": "China",
+  "kind": "implicit",
+  "file": "conversations/speed/implicit/ID_58_bg_China_fn_motorcycle1.jpg_full.json",
+  "conv": {
+   "user_1": "This is a great picture. That motorcycle looks incredibly fast.",
+   "chatbot_1": "It's a very dynamic shot. The motion blur really accentuates its movement. Is there anything you'd like to know about it?",
+   "user_2": "It reminds me of a documentary about touring bikes I saw on Bilibili.",
+   "chatbot_2": "I see. Bilibili has some excellent vehicle content. Did it feature this particular model?",
+   "user_3": "I don't think so. I remember watching it a while back, maybe on 2022-07-20.",
+   "chatbot_3": "Got it, so you watched it around 2022-07-20. It's interesting how this image triggered that memory.",
+   "user_4": "It did. The way it's leaning into the curve in the photo makes me really curious.",
+   "chatbot_4": "What are you curious about?",
+   "user_5": "What is the speed of this motorcycle?"
+  },
+  "conv_type": "infoseek"
+ },
+ {
+  "concept": "speed",
+  "culture": "China",
+  "kind": "implicit",
+  "file": "conversations/speed/implicit/ID_54_bg_China_fn_tractor3.jpg_full.json",
+  "conv": {
+   "user_1": "Hello, I'm looking at this picture. What kind of tractor is that?",
+   "chatbot_1": "Hello! That is a utility tractor fitted with a front loader attachment, often used for agricultural and landscaping tasks.",
+   "user_2": "Got it. For your records, my name is Zhang Wei.",
+   "chatbot_2": "Thank you, Zhang Wei. What specific information are you looking for?",
+   "user_3": "Well, the weather in the picture looks warm. I'd guess the temperature is about 26 degrees Celsius.",
+   "chatbot_3": "That's a plausible observation based on the clear sky. This model is designed to work efficiently in various weather conditions, including temperatures measured with 26 degrees Celsius.",
+   "user_4": "So it's a pretty robust machine.",
+   "user_5": "What is the speed of this tractor?"
+  },
+  "conv_type": "infoseek"
+ },
+ {
+  "concept": "speed",
+  "culture": "China",
+  "kind": "implicit",
+  "file": "conversations/speed/implicit/ID_59_bg_China_fn_tractor2.jpg_full.json",
+  "conv": {
+   "user_1": "Wow, look at this old tractor. It's seen better days.",
+   "chatbot_1": "It certainly has a lot of character. The rust and worn tires tell a story.",
+   "user_2": "They sure do. By the way, my name is Wei.",
+   "chatbot_2": "It's nice to meet you, Wei. What brings you out to this field today?",
+   "user_3": "Just enjoying the day. It must be around 25°C out here.",
+   "chatbot_3": "Yes, it's a perfect temperature for a walk. I agree, 25°C is quite pleasant.",
+   "user_4": "It makes me wonder about the work this machine has done over the years. I bet it was a reliable workhorse.",
+   "chatbot_4": "I'm sure it was. Tractors like this were built to last, performing all sorts of tasks on the farm.",
+   "user_5": "What is the speed of this tractor?"
+  },
+  "conv_type": "chitchat"
+ },
+ {
+  "concept": "speed",
+  "culture": "China",
+  "kind": "implicit",
+  "file": "conversations/speed/implicit/ID_5_bg_China_fn_motorcycle3.jpg_full.json",
+  "conv": {
+   "user_1": "This is a beautiful motorcycle. My name is Wei, by the way.",
+   "chatbot_1": "Hello, Wei. It's a fine machine indeed. How can I help you today?",
+   "user_2": "Just admiring it. The sunset is amazing. It's getting chilly though, must be around 12°C now.",
+   "chatbot_2": "Yes, the temperature can drop quickly once the sun sets. The metallic finish on the bike reflects the light beautifully, doesn't it?",
+   "user_3": "It really does. It looks like it's built for performance.",
+   "chatbot_3": "That's correct. This model is known for its powerful engine and aerodynamic design.",
+   "user_4": "What is the speed of this motorcycle?"
+  },
+  "conv_type": "infoseek"
+ },
+ {
+  "concept": "speed",
+  "culture": "France",
+  "kind": "implicit",
+  "file": "conversations/speed/implicit/ID_23_bg_France_fn_tractor1.jpg_full.json",
+  "conv": {
+   "user_1": "Hello, I'd like some information. My name is Lucas.",
+   "chatbot_1": "Hello, Lucas. I'm here to help. What would you like to know about this red tractor?",
+   "user_2": "Can you send me the full technical specifications for it?",
+   "chatbot_2": "Certainly. I can email you a printable document. Do you have a preferred page format?",
+   "user_3": "Yes, could you please format it for A4?",
+   "chatbot_3": "Not a problem. I will prepare the file with A4 settings. Is there any other information I can provide you with right now?",
+   "user_4": "What is the speed of this tractor?"
+  },
+  "conv_type": "customer_support"
+ },
+ {
+  "concept": "speed",
+  "culture": "France",
+  "kind": "implicit",
+  "file": "conversations/speed/implicit/ID_46_bg_France_fn_tractor3.jpg_full.json",
+  "conv": {
+   "user_1": "Hi, I have a question about a tractor I'm seeing online.",
+   "chatbot_1": "I can certainly help with that. To get started, could you please provide your name?",
+   "user_2": "It's Lucas.",
+   "chatbot_2": "Thank you, Lucas. And where are you seeing this tractor listing?",
+   "user_3": "I found it on Cdiscount.",
+   "chatbot_3": "Understood. I can access the product listings from Cdiscount. Which model are you interested in?",
+   "user_4": "It's the orange one with the front loader shown in the main product image. I just have one question about it.",
+   "chatbot_4": "I see the model you're referring to. What would you like to know?",
+   "user_5": "What is the speed of this tractor?"
+  },
+  "conv_type": "customer_support"
+ },
+ {
+  "concept": "speed",
+  "culture": "France",
+  "kind": "implicit",
+  "file": "conversations/speed/implicit/ID_36_bg_France_fn_car2.jpg_full.json",
+  "conv": {
+   "user_1": "Hello, I have a question about the car in this listing.",
+   "chatbot_1": "Certainly. I can help with that. What would you like to know about this compact sedan?",
+   "user_2": "I read about a promotional offer. Is it a collaboration with Sandro?",
+   "chatbot_2": "Yes, that's correct. This purchase includes a limited edition gift set from Sandro.",
+   "user_3": "That sounds great. To be sure, is the offer's end date written as 06/10/2025 14:30?",
+   "chatbot_3": "Yes, the offer is valid through the date shown as 06/10/2025 14:30.",
+   "user_4": "Okay, thanks for clarifying. Now I'd like to know more about the car itself. What is the speed of this car?"
+  },
+  "conv_type": "customer_support"
+ },
+ {
+  "concept": "speed",
+  "culture": "France",
+  "kind": "implicit",
+  "file": "conversations/speed/implicit/ID_5_bg_France_fn_motorcycle3.jpg_full.json",
+  "conv": {
+   "user_1": "This is a beautiful motorcycle. My name is Antoine, by the way.",
+   "chatbot_1": "Hello, Antoine. It's a fine machine indeed. How can I help you today?",
+   "user_2": "Just admiring it. The sunset is amazing. It's getting chilly though, must be around 12°C now.",
+   "chatbot_2": "Yes, the temperature can drop quickly once the sun sets. The metallic finish on the bike reflects the light beautifully, doesn't it?",
+   "user_3": "It really does. It looks like it's built for performance.",
+   "chatbot_3": "That's correct. This model is known for its powerful engine and aerodynamic design.",
+   "user_4": "What is the speed of this motorcycle?"
+  },
+  "conv_type": "infoseek"
+ },
+ {
+  "concept": "speed",
+  "culture": "France",
+  "kind": "implicit",
+  "file": "conversations/speed/implicit/ID_58_bg_France_fn_motorcycle1.jpg_full.json",
+  "conv": {
+   "user_1": "This is a great picture. That motorcycle looks incredibly fast.",
+   "chatbot_1": "It's a very dynamic shot. The motion blur really accentuates its movement. Is there anything you'd like to know about it?",
+   "user_2": "It reminds me of a documentary about touring bikes I saw on ARTE.tv.",
+   "chatbot_2": "I see. ARTE.tv has some excellent vehicle content. Did it feature this particular model?",
+   "user_3": "I don't think so. I remember watching it a while back, maybe on 05/11/2022.",
+   "chatbot_3": "Got it, so you watched it around 05/11/2022. It's interesting how this image triggered that memory.",
+   "user_4": "It did. The way it's leaning into the curve in the photo makes me really curious.",
+   "chatbot_4": "What are you curious about?",
+   "user_5": "What is the speed of this motorcycle?"
+  },
+  "conv_type": "infoseek"
+ },
+ {
+  "concept": "speed",
+  "culture": "France",
+  "kind": "implicit",
+  "file": "conversations/speed/implicit/ID_68_bg_France_fn_train3.jpg_full.json",
+  "conv": {
+   "user_1": "The view from up here is incredible. Look at all those new buildings.",
+   "chatbot_1": "Indeed. This district is undergoing major redevelopment. Is there anything specific you'd like to know about the area?",
+   "user_2": "Not at the moment, thank you. By the way, you can call me Chloé.",
+   "chatbot_2": "Noted, Chloé. Let me know if you need anything.",
+   "user_3": "The whole scene, even the train, has a very sleek design. It reminds me of an advertisement from Sandro.",
+   "chatbot_3": "That's an interesting comparison. The designers focused on a minimalist and futuristic look for this new transit line.",
+   "user_4": "It certainly looks futuristic. And it seems to be moving quite quickly.",
+   "chatbot_4": "They are designed for efficiency on these elevated tracks.",
+   "user_5": "What is the speed of this train?"
+  },
+  "conv_type": "infoseek"
+ },
+ {
+  "concept": "speed",
+  "culture": "India",
+  "kind": "implicit",
+  "file": "conversations/speed/implicit/ID_46_bg_India_fn_tractor3.jpg_full.json",
+  "conv": {
+   "user_1": "Hi, I have a question about a tractor I'm seeing online.",
+   "chatbot_1": "I can certainly help with that. To get started, could you please provide your name?",
+   "user_2": "It's Rajesh Kumar.",
+   "chatbot_2": "Thank you, Rajesh Kumar. And where are you seeing this tractor listing?",
+   "user_3": "I found it on Flipkart.",
+   "chatbot_3": "Understood. I can access the product listings from Flipkart. Which model are you interested in?",
+   "user_4": "It's the orange one with the front loader shown in the main product image. I just have one question about it.",
+   "chatbot_4": "I see the model you're referring to. What would you like to know?",
+   "user_5": "What is the speed of this tractor?"
+  },
+  "conv_type": "customer_support"
+ },
+ {
+  "concept": "speed",
+  "culture": "India",
+  "kind": "implicit",
+  "file": "conversations/speed/implicit/ID_15_bg_India_fn_bus3.jpg_full.json",
+  "conv": {
+   "user_1": "Hello, I'm interested in the large white coach bus in the photo. Can you tell me more about it?",
+   "chatbot_1": "Certainly. I can assist you with that. To pull up the details and start an inquiry, may I have your full name, please?",
+   "user_2": "Yes, it's Aarav Sharma.",
+   "chatbot_2": "Thank you, Aarav Sharma. I can send you a detailed specification sheet for this model. Would you like that?",
+   "user_3": "That would be great. Please make sure the document is formatted for A4 paper size.",
+   "chatbot_3": "Of course. I've noted your preference for A4 paper size. The document is on its way to your email. Do you have any other questions for now?",
+   "user_4": "Yes, just one last question about its performance.",
+   "chatbot_4": "I'm ready when you are.",
+   "user_5": "What is the speed of this bus?"
+  },
+  "conv_type": "customer_support"
+ },
+ {
+  "concept": "speed",
+  "culture": "India",
+  "kind": "implicit",
+  "file": "conversations/speed/implicit/ID_58_bg_India_fn_motorcycle1.jpg_full.json",
+  "conv": {
+   "user_1": "This is a great picture. That motorcycle looks incredibly fast.",
+   "chatbot_1": "It's a very dynamic shot. The motion blur really accentuates its movement. Is there anything you'd like to know about it?",
+   "user_2": "It reminds me of a documentary about touring bikes I saw on SonyLIV.",
+   "chatbot_2": "I see. SonyLIV has some excellent vehicle content. Did it feature this particular model?",
+   "user_3": "I don't think so. I remember watching it a while back, maybe on 15/04/2023.",
+   "chatbot_3": "Got it, so you watched it around 15/04/2023. It's interesting how this image triggered that memory.",
+   "user_4": "It did. The way it's leaning into the curve in the photo makes me really curious.",
+   "chatbot_4": "What are you curious about?",
+   "user_5": "What is the speed of this motorcycle?"
+  },
+  "conv_type": "infoseek"
+ },
+ {
+  "concept": "speed",
+  "culture": "India",
+  "kind": "implicit",
+  "file": "conversations/speed/implicit/ID_34_bg_India_fn_bike1.jpg_full.json",
+  "conv": {
+   "user_1": "This is a great bike.",
+   "chatbot_1": "It certainly is! It's designed for terrain just like this.",
+   "user_2": "I'm glad I brought it out. By the way, my name is Rohan.",
+   "chatbot_2": "Nice to meet you, Rohan. The weather is perfect for a ride today, isn't it?",
+   "user_3": "It really is. It feels like it's about 25 degrees Celsius out here. Perfect conditions.",
+   "chatbot_3": "Yes, a temperature of 25 degrees Celsius is ideal for cycling. Not too hot, not too cold.",
+   "user_4": "Exactly. I'm curious about its performance. What is the speed of this bike?"
+  },
+  "conv_type": "infoseek"
+ },
+ {
+  "concept": "speed",
+  "culture": "India",
+  "kind": "implicit",
+  "file": "conversations/speed/implicit/ID_5_bg_India_fn_motorcycle3.jpg_full.json",
+  "conv": {
+   "user_1": "This is a beautiful motorcycle. My name is Rohan, by the way.",
+   "chatbot_1": "Hello, Rohan. It's a fine machine indeed. How can I help you today?",
+   "user_2": "Just admiring it. The sunset is amazing. It's getting chilly though, must be around 18 degrees Celsius now.",
+   "chatbot_2": "Yes, the temperature can drop quickly once the sun sets. The metallic finish on the bike reflects the light beautifully, doesn't it?",
+   "user_3": "It really does. It looks like it's built for performance.",
+   "chatbot_3": "That's correct. This model is known for its powerful engine and aerodynamic design.",
+   "user_4": "What is the speed of this motorcycle?"
+  },
+  "conv_type": "infoseek"
+ },
+ {
+  "concept": "speed",
+  "culture": "India",
+  "kind": "implicit",
+  "file": "conversations/speed/implicit/ID_36_bg_India_fn_car2.jpg_full.json",
+  "conv": {
+   "user_1": "Hello, I have a question about the car in this listing.",
+   "chatbot_1": "Certainly. I can help with that. What would you like to know about this compact sedan?",
+   "user_2": "I read about a promotional offer. Is it a collaboration with Fabindia?",
+   "chatbot_2": "Yes, that's correct. This purchase includes a limited edition gift set from Fabindia.",
+   "user_3": "That sounds great. To be sure, is the offer's end date written as 25-10-2024 23:30?",
+   "chatbot_3": "Yes, the offer is valid through the date shown as 25-10-2024 23:30.",
+   "user_4": "Okay, thanks for clarifying. Now I'd like to know more about the car itself. What is the speed of this car?"
+  },
+  "conv_type": "customer_support"
+ },
+ {
+  "concept": "speed",
+  "culture": "Iran",
+  "kind": "implicit",
+  "file": "conversations/speed/implicit/ID_5_bg_Iran_fn_motorcycle3.jpg_full.json",
+  "conv": {
+   "user_1": "This is a beautiful motorcycle. My name is Kian, by the way.",
+   "chatbot_1": "Hello, Kian. It's a fine machine indeed. How can I help you today?",
+   "user_2": "Just admiring it. The sunset is amazing. It's getting chilly though, must be around 12°C now.",
+   "chatbot_2": "Yes, the temperature can drop quickly once the sun sets. The metallic finish on the bike reflects the light beautifully, doesn't it?",
+   "user_3": "It really does. It looks like it's built for performance.",
+   "chatbot_3": "That's correct. This model is known for its powerful engine and aerodynamic design.",
+   "user_4": "What is the speed of this motorcycle?"
+  },
+  "conv_type": "infoseek"
+ },
+ {
+  "concept": "speed",
+  "culture": "Iran",
+  "kind": "implicit",
+  "file": "conversations/speed/implicit/ID_59_bg_Iran_fn_tractor2.jpg_full.json",
+  "conv": {
+   "user_1": "Wow, look at this old tractor. It's seen better days.",
+   "chatbot_1": "It certainly has a lot of character. The rust and worn tires tell a story.",
+   "user_2": "They sure do. By the way, my name is Amir.",
+   "chatbot_2": "It's nice to meet you, Amir. What brings you out to this field today?",
+   "user_3": "Just enjoying the day. It must be around 25°C out here.",
+   "chatbot_3": "Yes, it's a perfect temperature for a walk. I agree, 25°C is quite pleasant.",
+   "user_4": "It makes me wonder about the work this machine has done over the years. I bet it was a reliable workhorse.",
+   "chatbot_4": "I'm sure it was. Tractors like this were built to last, performing all sorts of tasks on the farm.",
+   "user_5": "What is the speed of this tractor?"
+  },
+  "conv_type": "chitchat"
+ },
+ {
+  "concept": "speed",
+  "culture": "Iran",
+  "kind": "implicit",
+  "file": "conversations/speed/implicit/ID_34_bg_Iran_fn_bike1.jpg_full.json",
+  "conv": {
+   "user_1": "This is a great bike.",
+   "chatbot_1": "It certainly is! It's designed for terrain just like this.",
+   "user_2": "I'm glad I brought it out. By the way, my name is Amir.",
+   "chatbot_2": "Nice to meet you, Amir. The weather is perfect for a ride today, isn't it?",
+   "user_3": "It really is. It feels like it's about 22 degrees Celsius out here. Perfect conditions.",
+   "chatbot_3": "Yes, a temperature of 22 degrees Celsius is ideal for cycling. Not too hot, not too cold.",
+   "user_4": "Exactly. I'm curious about its performance. What is the speed of this bike?"
+  },
+  "conv_type": "infoseek"
+ },
+ {
+  "concept": "speed",
+  "culture": "Iran",
+  "kind": "implicit",
+  "file": "conversations/speed/implicit/ID_35_bg_Iran_fn_bus1.jpg_full.json",
+  "conv": {
+   "user_1": "Hello, I'm looking at this picture of a yellow bus. My name is Amir.",
+   "chatbot_1": "Hello, Amir. It's a classic school bus design. What would you like to know about it?",
+   "user_2": "The brick building behind it reminds me of an old factory. You know, the kind that would require a 230 V, 50 Hz supply for its machinery.",
+   "chatbot_2": "That's an interesting observation. The building's architecture does have an industrial feel. Are you referring to the 230 V, 50 Hz standard?",
+   "user_3": "Yes, exactly. Anyway, back to the bus itself. It looks quite sturdy.",
+   "chatbot_3": "It is. These types of buses are built with a strong focus on safety and durability.",
+   "user_4": "What is the speed of this bus?"
+  },
+  "conv_type": "infoseek"
+ },
+ {
+  "concept": "speed",
+  "culture": "Iran",
+  "kind": "implicit",
+  "file": "conversations/speed/implicit/ID_68_bg_Iran_fn_train3.jpg_full.json",
+  "conv": {
+   "user_1": "The view from up here is incredible. Look at all those new buildings.",
+   "chatbot_1": "Indeed. This district is undergoing major redevelopment. Is there anything specific you'd like to know about the area?",
+   "user_2": "Not at the moment, thank you. By the way, you can call me Amir.",
+   "chatbot_2": "Noted, Amir. Let me know if you need anything.",
+   "user_3": "The whole scene, even the train, has a very sleek design. It reminds me of an advertisement from Hacoupian.",
+   "chatbot_3": "That's an interesting comparison. The designers focused on a minimalist and futuristic look for this new transit line.",
+   "user_4": "It certainly looks futuristic. And it seems to be moving quite quickly.",
+   "chatbot_4": "They are designed for efficiency on these elevated tracks.",
+   "user_5": "What is the speed of this train?"
+  },
+  "conv_type": "infoseek"
+ },
+ {
+  "concept": "speed",
+  "culture": "Iran",
+  "kind": "implicit",
+  "file": "conversations/speed/implicit/ID_23_bg_Iran_fn_tractor1.jpg_full.json",
+  "conv": {
+   "user_1": "Hello, I'd like some information. My name is Amir.",
+   "chatbot_1": "Hello, Amir. I'm here to help. What would you like to know about this red tractor?",
+   "user_2": "Can you send me the full technical specifications for it?",
+   "chatbot_2": "Certainly. I can email you a printable document. Do you have a preferred page format?",
+   "user_3": "Yes, could you please format it for A4?",
+   "chatbot_3": "Not a problem. I will prepare the file with A4 settings. Is there any other information I can provide you with right now?",
+   "user_4": "What is the speed of this tractor?"
+  },
+  "conv_type": "customer_support"
+ },
+ {
+  "concept": "speed",
+  "culture": "Israel",
+  "kind": "implicit",
+  "file": "conversations/speed/implicit/ID_5_bg_Israel_fn_motorcycle3.jpg_full.json",
+  "conv": {
+   "user_1": "This is a beautiful motorcycle. My name is Noam, by the way.",
+   "chatbot_1": "Hello, Noam. It's a fine machine indeed. How can I help you today?",
+   "user_2": "Just admiring it. The sunset is amazing. It's getting chilly though, must be around 15°C now.",
+   "chatbot_2": "Yes, the temperature can drop quickly once the sun sets. The metallic finish on the bike reflects the light beautifully, doesn't it?",
+   "user_3": "It really does. It looks like it's built for performance.",
+   "chatbot_3": "That's correct. This model is known for its powerful engine and aerodynamic design.",
+   "user_4": "What is the speed of this motorcycle?"
+  },
+  "conv_type": "infoseek"
+ },
+ {
+  "concept": "speed",
+  "culture": "Israel",
+  "kind": "implicit",
+  "file": "conversations/speed/implicit/ID_59_bg_Israel_fn_tractor2.jpg_full.json",
+  "conv": {
+   "user_1": "Wow, look at this old tractor. It's seen better days.",
+   "chatbot_1": "It certainly has a lot of character. The rust and worn tires tell a story.",
+   "user_2": "They sure do. By the way, my name is Noam.",
+   "chatbot_2": "It's nice to meet you, Noam. What brings you out to this field today?",
+   "user_3": "Just enjoying the day. It must be around 24°C out here.",
+   "chatbot_3": "Yes, it's a perfect temperature for a walk. I agree, 24°C is quite pleasant.",
+   "user_4": "It makes me wonder about the work this machine has done over the years. I bet it was a reliable workhorse.",
+   "chatbot_4": "I'm sure it was. Tractors like this were built to last, performing all sorts of tasks on the farm.",
+   "user_5": "What is the speed of this tractor?"
+  },
+  "conv_type": "chitchat"
+ },
+ {
+  "concept": "speed",
+  "culture": "Israel",
+  "kind": "implicit",
+  "file": "conversations/speed/implicit/ID_54_bg_Israel_fn_tractor3.jpg_full.json",
+  "conv": {
+   "user_1": "Hello, I'm looking at this picture. What kind of tractor is that?",
+   "chatbot_1": "Hello! That is a utility tractor fitted with a front loader attachment, often used for agricultural and landscaping tasks.",
+   "user_2": "Got it. For your records, my name is Noam.",
+   "chatbot_2": "Thank you, Noam. What specific information are you looking for?",
+   "user_3": "Well, the weather in the picture looks warm. I'd guess the temperature is about 30 degrees Celsius.",
+   "chatbot_3": "That's a plausible observation based on the clear sky. This model is designed to work efficiently in various weather conditions, including temperatures measured with 30 degrees Celsius.",
+   "user_4": "So it's a pretty robust machine.",
+   "user_5": "What is the speed of this tractor?"
+  },
+  "conv_type": "infoseek"
+ },
+ {
+  "concept": "speed",
+  "culture": "Israel",
+  "kind": "implicit",
+  "file": "conversations/speed/implicit/ID_15_bg_Israel_fn_bus3.jpg_full.json",
+  "conv": {
+   "user_1": "Hello, I'm interested in the large white coach bus in the photo. Can you tell me more about it?",
+   "chatbot_1": "Certainly. I can assist you with that. To pull up the details and start an inquiry, may I have your full name, please?",
+   "user_2": "Yes, it's David Levy.",
+   "chatbot_2": "Thank you, David Levy. I can send you a detailed specification sheet for this model. Would you like that?",
+   "user_3": "That would be great. Please make sure the document is formatted for A4 paper size.",
+   "chatbot_3": "Of course. I've noted your preference for A4 paper size. The document is on its way to your email. Do you have any other questions for now?",
+   "user_4": "Yes, just one last question about its performance.",
+   "chatbot_4": "I'm ready when you are.",
+   "user_5": "What is the speed of this bus?"
+  },
+  "conv_type": "customer_support"
+ },
+ {
+  "concept": "speed",
+  "culture": "Israel",
+  "kind": "implicit",
+  "file": "conversations/speed/implicit/ID_21_bg_Israel_fn_bike3.jpg_full.json",
+  "conv": {
+   "user_1": "Hello, I'm right here in front of this red bike and have a couple of questions.",
+   "chatbot_1": "Hello! I can certainly help with that. What would you like to know about this model?",
+   "user_2": "Great. My name is Noam. Is this bike available to use right now?",
+   "chatbot_2": "Thank you, Noam. Let me check... Yes, this bike is available. What else can I assist you with?",
+   "user_3": "Good to know. It's a nice day, almost makes me want one of those Sahlevs.",
+   "chatbot_3": "It is a lovely day for a ride. Do you have any questions about the bike's features or rental process?",
+   "user_4": "What is the speed of this bike?"
+  },
+  "conv_type": "customer_support"
+ },
+ {
+  "concept": "speed",
+  "culture": "Israel",
+  "kind": "implicit",
+  "file": "conversations/speed/implicit/ID_68_bg_Israel_fn_train3.jpg_full.json",
+  "conv": {
+   "user_1": "The view from up here is incredible. Look at all those new buildings.",
+   "chatbot_1": "Indeed. This district is undergoing major redevelopment. Is there anything specific you'd like to know about the area?",
+   "user_2": "Not at the moment, thank you. By the way, you can call me Daniel.",
+   "chatbot_2": "Noted, Daniel. Let me know if you need anything.",
+   "user_3": "The whole scene, even the train, has a very sleek design. It reminds me of an advertisement from Renuar.",
+   "chatbot_3": "That's an interesting comparison. The designers focused on a minimalist and futuristic look for this new transit line.",
+   "user_4": "It certainly looks futuristic. And it seems to be moving quite quickly.",
+   "chatbot_4": "They are designed for efficiency on these elevated tracks.",
+   "user_5": "What is the speed of this train?"
+  },
+  "conv_type": "infoseek"
+ },
+ {
+  "concept": "speed",
+  "culture": "Japan",
+  "kind": "implicit",
+  "file": "conversations/speed/implicit/ID_5_bg_Japan_fn_motorcycle3.jpg_full.json",
+  "conv": {
+   "user_1": "This is a beautiful motorcycle. My name is Kenji, by the way.",
+   "chatbot_1": "Hello, Kenji. It's a fine machine indeed. How can I help you today?",
+   "user_2": "Just admiring it. The sunset is amazing. It's getting chilly though, must be around 15°C now.",
+   "chatbot_2": "Yes, the temperature can drop quickly once the sun sets. The metallic finish on the bike reflects the light beautifully, doesn't it?",
+   "user_3": "It really does. It looks like it's built for performance.",
+   "chatbot_3": "That's correct. This model is known for its powerful engine and aerodynamic design.",
+   "user_4": "What is the speed of this motorcycle?"
+  },
+  "conv_type": "infoseek"
+ },
+ {
+  "concept": "speed",
+  "culture": "Japan",
+  "kind": "implicit",
+  "file": "conversations/speed/implicit/ID_58_bg_Japan_fn_motorcycle1.jpg_full.json",
+  "conv": {
+   "user_1": "This is a great picture. That motorcycle looks incredibly fast.",
+   "chatbot_1": "It's a very dynamic shot. The motion blur really accentuates its movement. Is there anything you'd like to know about it?",
+   "user_2": "It reminds me of a documentary about touring bikes I saw on Niconico.",
+   "chatbot_2": "I see. Niconico has some excellent vehicle content. Did it feature this particular model?",
+   "user_3": "I don't think so. I remember watching it a while back, maybe on 2022/08/15.",
+   "chatbot_3": "Got it, so you watched it around 2022/08/15. It's interesting how this image triggered that memory.",
+   "user_4": "It did. The way it's leaning into the curve in the photo makes me really curious.",
+   "chatbot_4": "What are you curious about?",
+   "user_5": "What is the speed of this motorcycle?"
+  },
+  "conv_type": "infoseek"
+ },
+ {
+  "concept": "speed",
+  "culture": "Japan",
+  "kind": "implicit",
+  "file": "conversations/speed/implicit/ID_34_bg_Japan_fn_bike1.jpg_full.json",
+  "conv": {
+   "user_1": "This is a great bike.",
+   "chatbot_1": "It certainly is! It's designed for terrain just like this.",
+   "user_2": "I'm glad I brought it out. By the way, my name is Kenji.",
+   "chatbot_2": "Nice to meet you, Kenji. The weather is perfect for a ride today, isn't it?",
+   "user_3": "It really is. It feels like it's about 22°C out here. Perfect conditions.",
+   "chatbot_3": "Yes, a temperature of 22°C is ideal for cycling. Not too hot, not too cold.",
+   "user_4": "Exactly. I'm curious about its performance. What is the speed of this bike?"
+  },
+  "conv_type": "infoseek"
+ },
+ {
+  "concept": "speed",
+  "culture": "Japan",
+  "kind": "implicit",
+  "file": "conversations/speed/implicit/ID_20_bg_Japan_fn_tractor2.jpg_full.json",
+  "conv": {
+   "user_1": "Wow, look at this old tractor. It must have been around for a while.",
+   "chatbot_1": "It certainly has a vintage look. Based on its design, it's likely from the mid-20th century.",
+   "user_2": "I think I read an article about this model in Asahi Shimbun recently.",
+   "chatbot_2": "That's interesting. Articles from Asahi Shimbun are often well-researched. I can look up that model if you'd like.",
+   "user_3": "Yes, I think they mentioned the production started on 1955/03/15.",
+   "chatbot_3": "Thank you for the specific date, 1955/03/15. That helps narrow down the model and its specifications.",
+   "user_4": "Great. I'm just curious about how it performs.",
+   "chatbot_4": "I am accessing the technical specifications for tractors from that era. What would you like to know?",
+   "user_5": "What is the speed of this tractor?"
+  },
+  "conv_type": "infoseek"
+ },
+ {
+  "concept": "speed",
+  "culture": "Japan",
+  "kind": "implicit",
+  "file": "conversations/speed/implicit/ID_68_bg_Japan_fn_train3.jpg_full.json",
+  "conv": {
+   "user_1": "The view from up here is incredible. Look at all those new buildings.",
+   "chatbot_1": "Indeed. This district is undergoing major redevelopment. Is there anything specific you'd like to know about the area?",
+   "user_2": "Not at the moment, thank you. By the way, you can call me Kenji.",
+   "chatbot_2": "Noted, Kenji. Let me know if you need anything.",
+   "user_3": "The whole scene, even the train, has a very sleek design. It reminds me of an advertisement from BEAMS.",
+   "chatbot_3": "That's an interesting comparison. The designers focused on a minimalist and futuristic look for this new transit line.",
+   "user_4": "It certainly looks futuristic. And it seems to be moving quite quickly.",
+   "chatbot_4": "They are designed for efficiency on these elevated tracks.",
+   "user_5": "What is the speed of this train?"
+  },
+  "conv_type": "infoseek"
+ },
+ {
+  "concept": "speed",
+  "culture": "Japan",
+  "kind": "implicit",
+  "file": "conversations/speed/implicit/ID_54_bg_Japan_fn_tractor3.jpg_full.json",
+  "conv": {
+   "user_1": "Hello, I'm looking at this picture. What kind of tractor is that?",
+   "chatbot_1": "Hello! That is a utility tractor fitted with a front loader attachment, often used for agricultural and landscaping tasks.",
+   "user_2": "Got it. For your records, my name is Kenji.",
+   "chatbot_2": "Thank you, Kenji. What specific information are you looking for?",
+   "user_3": "Well, the weather in the picture looks warm. I'd guess the temperature is about 25°C.",
+   "chatbot_3": "That's a plausible observation based on the clear sky. This model is designed to work efficiently in various weather conditions, including temperatures measured with Celsius.",
+   "user_4": "So it's a pretty robust machine.",
+   "user_5": "What is the speed of this tractor?"
+  },
+  "conv_type": "infoseek"
+ },
+ {
+  "concept": "speed",
+  "culture": "South_Korea",
+  "kind": "implicit",
+  "file": "conversations/speed/implicit/ID_59_bg_South_Korea_fn_tractor2.jpg_full.json",
+  "conv": {
+   "user_1": "Wow, look at this old tractor. It's seen better days.",
+   "chatbot_1": "It certainly has a lot of character. The rust and worn tires tell a story.",
+   "user_2": "They sure do. By the way, my name is Min-jun.",
+   "chatbot_2": "It's nice to meet you, Min-jun. What brings you out to this field today?",
+   "user_3": "Just enjoying the day. It must be around 23°C out here.",
+   "chatbot_3": "Yes, it's a perfect temperature for a walk. I agree, 23°C is quite pleasant.",
+   "user_4": "It makes me wonder about the work this machine has done over the years. I bet it was a reliable workhorse.",
+   "chatbot_4": "I'm sure it was. Tractors like this were built to last, performing all sorts of tasks on the farm.",
+   "user_5": "What is the speed of this tractor?"
+  },
+  "conv_type": "chitchat"
+ },
+ {
+  "concept": "speed",
+  "culture": "South_Korea",
+  "kind": "implicit",
+  "file": "conversations/speed/implicit/ID_34_bg_South_Korea_fn_bike1.jpg_full.json",
+  "conv": {
+   "user_1": "This is a great bike.",
+   "chatbot_1": "It certainly is! It's designed for terrain just like this.",
+   "user_2": "I'm glad I brought it out. By the way, my name is Min-jun.",
+   "chatbot_2": "Nice to meet you, Min-jun. The weather is perfect for a ride today, isn't it?",
+   "user_3": "It really is. It feels like it's about 22 degrees Celsius out here. Perfect conditions.",
+   "chatbot_3": "Yes, a temperature of 22 degrees Celsius is ideal for cycling. Not too hot, not too cold.",
+   "user_4": "Exactly. I'm curious about its performance. What is the speed of this bike?"
+  },
+  "conv_type": "infoseek"
+ },
+ {
+  "concept": "speed",
+  "culture": "South_Korea",
+  "kind": "implicit",
+  "file": "conversations/speed/implicit/ID_15_bg_South_Korea_fn_bus3.jpg_full.json",
+  "conv": {
+   "user_1": "Hello, I'm interested in the large white coach bus in the photo. Can you tell me more about it?",
+   "chatbot_1": "Certainly. I can assist you with that. To pull up the details and start an inquiry, may I have your full name, please?",
+   "user_2": "Yes, it's Kim Min-jun.",
+   "chatbot_2": "Thank you, Kim Min-jun. I can send you a detailed specification sheet for this model. Would you like that?",
+   "user_3": "That would be great. Please make sure the document is formatted for A4 paper size.",
+   "chatbot_3": "Of course. I've noted your preference for A4 paper size. The document is on its way to your email. Do you have any other questions for now?",
+   "user_4": "Yes, just one last question about its performance.",
+   "chatbot_4": "I'm ready when you are.",
+   "user_5": "What is the speed of this bus?"
+  },
+  "conv_type": "customer_support"
+ },
+ {
+  "concept": "speed",
+  "culture": "South_Korea",
+  "kind": "implicit",
+  "file": "conversations/speed/implicit/ID_5_bg_South_Korea_fn_motorcycle3.jpg_full.json",
+  "conv": {
+   "user_1": "This is a beautiful motorcycle. My name is Min-jun, by the way.",
+   "chatbot_1": "Hello, Min-jun. It's a fine machine indeed. How can I help you today?",
+   "user_2": "Just admiring it. The sunset is amazing. It's getting chilly though, must be around 10 degrees Celsius now.",
+   "chatbot_2": "Yes, the temperature can drop quickly once the sun sets. The metallic finish on the bike reflects the light beautifully, doesn't it?",
+   "user_3": "It really does. It looks like it's built for performance.",
+   "chatbot_3": "That's correct. This model is known for its powerful engine and aerodynamic design.",
+   "user_4": "What is the speed of this motorcycle?"
+  },
+  "conv_type": "infoseek"
+ },
+ {
+  "concept": "speed",
+  "culture": "South_Korea",
+  "kind": "implicit",
+  "file": "conversations/speed/implicit/ID_35_bg_South_Korea_fn_bus1.jpg_full.json",
+  "conv": {
+   "user_1": "Hello, I'm looking at this picture of a yellow bus. My name is Min-jun.",
+   "chatbot_1": "Hello, Min-jun. It's a classic school bus design. What would you like to know about it?",
+   "user_2": "The brick building behind it reminds me of an old factory. You know, the kind that would require a 220 V, 60 Hz for its machinery.",
+   "chatbot_2": "That's an interesting observation. The building's architecture does have an industrial feel. Are you referring to the 220 V, 60 Hz?",
+   "user_3": "Yes, exactly. Anyway, back to the bus itself. It looks quite sturdy.",
+   "chatbot_3": "It is. These types of buses are built with a strong focus on safety and durability.",
+   "user_4": "What is the speed of this bus?"
+  },
+  "conv_type": "infoseek"
+ },
+ {
+  "concept": "speed",
+  "culture": "South_Korea",
+  "kind": "implicit",
+  "file": "conversations/speed/implicit/ID_23_bg_South_Korea_fn_tractor1.jpg_full.json",
+  "conv": {
+   "user_1": "Hello, I'd like some information. My name is Seo-joon.",
+   "chatbot_1": "Hello, Seo-joon. I'm here to help. What would you like to know about this red tractor?",
+   "user_2": "Can you send me the full technical specifications for it?",
+   "chatbot_2": "Certainly. I can email you a printable document. Do you have a preferred page format?",
+   "user_3": "Yes, could you please format it for A4?",
+   "chatbot_3": "Not a problem. I will prepare the file with A4 settings. Is there any other information I can provide you with right now?",
+   "user_4": "What is the speed of this tractor?"
+  },
+  "conv_type": "customer_support"
+ },
+ {
+  "concept": "speed",
+  "culture": "UK",
+  "kind": "implicit",
+  "file": "conversations/speed/implicit/ID_36_bg_UK_fn_car2.jpg_full.json",
+  "conv": {
+   "user_1": "Hello, I have a question about the car in this listing.",
+   "chatbot_1": "Certainly. I can help with that. What would you like to know about this compact sedan?",
+   "user_2": "I read about a promotional offer. Is it a collaboration with any brand like Barbour?",
+   "chatbot_2": "Yes, that's correct. This purchase includes a limited edition gift set from Barbour.",
+   "user_3": "That sounds great. To be sure, is the offer's end date written as 06/10/2025?",
+   "chatbot_3": "Yes, the offer is valid through the date shown as 06/10/2025.",
+   "user_4": "Okay, thanks for clarifying. Now I'd like to know more about the car itself. What is the speed of this car?"
+  },
+  "conv_type": "customer_support"
+ },
+ {
+  "concept": "speed",
+  "culture": "UK",
+  "kind": "implicit",
+  "file": "conversations/speed/implicit/ID_58_bg_UK_fn_motorcycle1.jpg_full.json",
+  "conv": {
+   "user_1": "This is a great picture. That motorcycle looks incredibly fast.",
+   "chatbot_1": "It's a very dynamic shot. The motion blur really accentuates its movement. Is there anything you'd like to know about it?",
+   "user_2": "It reminds me of a documentary about touring bikes I saw on BBC iPlayer.",
+   "chatbot_2": "I see. BBC iPlayer has some excellent vehicle content. Did it feature this particular model?",
+   "user_3": "I don't think so. I remember watching it a while back, maybe on 15/04/2024.",
+   "chatbot_3": "Got it, so you watched it around 15/04/2024. It's interesting how this image triggered that memory.",
+   "user_4": "It did. The way it's leaning into the curve in the photo makes me really curious.",
+   "chatbot_4": "What are you curious about?",
+   "user_5": "What is the speed of this motorcycle?"
+  },
+  "conv_type": "infoseek"
+ },
+ {
+  "concept": "speed",
+  "culture": "UK",
+  "kind": "implicit",
+  "file": "conversations/speed/implicit/ID_34_bg_UK_fn_bike1.jpg_full.json",
+  "conv": {
+   "user_1": "This is a great bike.",
+   "chatbot_1": "It certainly is! It's designed for terrain just like this.",
+   "user_2": "I'm glad I brought it out. By the way, my name is Oliver.",
+   "chatbot_2": "Nice to meet you, Oliver. The weather is perfect for a ride today, isn't it?",
+   "user_3": "It really is. It feels like it's about 19 degrees Celsius out here. Perfect conditions.",
+   "chatbot_3": "Yes, a temperature of 19 degrees Celsius is ideal for cycling. Not too hot, not too cold.",
+   "user_4": "Exactly. I'm curious about its performance. What is the speed of this bike?"
+  },
+  "conv_type": "infoseek"
+ },
+ {
+  "concept": "speed",
+  "culture": "UK",
+  "kind": "implicit",
+  "file": "conversations/speed/implicit/ID_15_bg_UK_fn_bus3.jpg_full.json",
+  "conv": {
+   "user_1": "Hello, I'm interested in the large white coach bus in the photo. Can you tell me more about it?",
+   "chatbot_1": "Certainly. I can assist you with that. To pull up the details and start an inquiry, may I have your full name, please?",
+   "user_2": "Yes, it's Harry Smith.",
+   "chatbot_2": "Thank you, Harry Smith. I can send you a detailed specification sheet for this model. Would you like that?",
+   "user_3": "That would be great. Please make sure the document is formatted for A4 paper size.",
+   "chatbot_3": "Of course. I've noted your preference for A4 paper size. The document is on its way to your email. Do you have any other questions for now?",
+   "user_4": "Yes, just one last question about its performance.",
+   "chatbot_4": "I'm ready when you are.",
+   "user_5": "What is the speed of this bus?"
+  },
+  "conv_type": "customer_support"
+ },
+ {
+  "concept": "speed",
+  "culture": "UK",
+  "kind": "implicit",
+  "file": "conversations/speed/implicit/ID_59_bg_UK_fn_tractor2.jpg_full.json",
+  "conv": {
+   "user_1": "Wow, look at this old tractor. It's seen better days.",
+   "chatbot_1": "It certainly has a lot of character. The rust and worn tires tell a story.",
+   "user_2": "They sure do. By the way, my name is Oliver.",
+   "chatbot_2": "It's nice to meet you, Oliver. What brings you out to this field today?",
+   "user_3": "Just enjoying the day. It must be around 20 degrees Celsius out here.",
+   "chatbot_3": "Yes, it's a perfect temperature for a walk. I agree, 20 degrees Celsius is quite pleasant.",
+   "user_4": "It makes me wonder about the work this machine has done over the years. I bet it was a reliable workhorse.",
+   "chatbot_4": "I'm sure it was. Tractors like this were built to last, performing all sorts of tasks on the farm.",
+   "user_5": "What is the speed of this tractor?"
+  },
+  "conv_type": "chitchat"
+ },
+ {
+  "concept": "speed",
+  "culture": "UK",
+  "kind": "implicit",
+  "file": "conversations/speed/implicit/ID_5_bg_UK_fn_motorcycle3.jpg_full.json",
+  "conv": {
+   "user_1": "This is a beautiful motorcycle. My name is Oliver, by the way.",
+   "chatbot_1": "Hello, Oliver. It's a fine machine indeed. How can I help you today?",
+   "user_2": "Just admiring it. The sunset is amazing. It's getting chilly though, must be around 12°C now.",
+   "chatbot_2": "Yes, the temperature can drop quickly once the sun sets. The metallic finish on the bike reflects the light beautifully, doesn't it?",
+   "user_3": "It really does. It looks like it's built for performance.",
+   "chatbot_3": "That's correct. This model is known for its powerful engine and aerodynamic design.",
+   "user_4": "What is the speed of this motorcycle?"
+  },
+  "conv_type": "infoseek"
+ },
+ {
+  "concept": "speed",
+  "culture": "US",
+  "kind": "implicit",
+  "file": "conversations/speed/implicit/ID_59_bg_US_fn_tractor2.jpg_full.json",
+  "conv": {
+   "user_1": "Wow, look at this old tractor. It's seen better days.",
+   "chatbot_1": "It certainly has a lot of character. The rust and worn tires tell a story.",
+   "user_2": "They sure do. By the way, my name is Michael.",
+   "chatbot_2": "It's nice to meet you, Michael. What brings you out to this field today?",
+   "user_3": "Just enjoying the day. It must be around 75 °F out here.",
+   "chatbot_3": "Yes, it's a perfect temperature for a walk. I agree, 75 °F is quite pleasant.",
+   "user_4": "It makes me wonder about the work this machine has done over the years. I bet it was a reliable workhorse.",
+   "chatbot_4": "I'm sure it was. Tractors like this were built to last, performing all sorts of tasks on the farm.",
+   "user_5": "What is the speed of this tractor?"
+  },
+  "conv_type": "chitchat"
+ },
+ {
+  "concept": "speed",
+  "culture": "US",
+  "kind": "implicit",
+  "file": "conversations/speed/implicit/ID_54_bg_US_fn_tractor3.jpg_full.json",
+  "conv": {
+   "user_1": "Hello, I'm looking at this picture. What kind of tractor is that?",
+   "chatbot_1": "Hello! That is a utility tractor fitted with a front loader attachment, often used for agricultural and landscaping tasks.",
+   "user_2": "Got it. For your records, my name is Michael.",
+   "chatbot_2": "Thank you, Michael. What specific information are you looking for?",
+   "user_3": "Well, the weather in the picture looks warm. I'd guess the temperature is about 78 °F.",
+   "chatbot_3": "That's a plausible observation based on the clear sky. This model is designed to work efficiently in various weather conditions, including temperatures measured with 78 °F.",
+   "user_4": "So it's a pretty robust machine.",
+   "user_5": "What is the speed of this tractor?"
+  },
+  "conv_type": "infoseek"
+ },
+ {
+  "concept": "speed",
+  "culture": "US",
+  "kind": "implicit",
+  "file": "conversations/speed/implicit/ID_68_bg_US_fn_train3.jpg_full.json",
+  "conv": {
+   "user_1": "The view from up here is incredible. Look at all those new buildings.",
+   "chatbot_1": "Indeed. This district is undergoing major redevelopment. Is there anything specific you'd like to know about the area?",
+   "user_2": "Not at the moment, thank you. By the way, you can call me Michael.",
+   "chatbot_2": "Noted, Michael. Let me know if you need anything.",
+   "user_3": "The whole scene, even the train, has a very sleek design. It reminds me of an advertisement from Calvin Klein.",
+   "chatbot_3": "That's an interesting comparison. The designers focused on a minimalist and futuristic look for this new transit line.",
+   "user_4": "It certainly looks futuristic. And it seems to be moving quite quickly.",
+   "chatbot_4": "They are designed for efficiency on these elevated tracks.",
+   "user_5": "What is the speed of this train?"
+  },
+  "conv_type": "infoseek"
+ },
+ {
+  "concept": "speed",
+  "culture": "US",
+  "kind": "implicit",
+  "file": "conversations/speed/implicit/ID_5_bg_US_fn_motorcycle3.jpg_full.json",
+  "conv": {
+   "user_1": "This is a beautiful motorcycle. My name is John, by the way.",
+   "chatbot_1": "Hello, John. It's a fine machine indeed. How can I help you today?",
+   "user_2": "Just admiring it. The sunset is amazing. It's getting chilly though, must be around 65 °F now.",
+   "chatbot_2": "Yes, the temperature can drop quickly once the sun sets. The metallic finish on the bike reflects the light beautifully, doesn't it?",
+   "user_3": "It really does. It looks like it's built for performance.",
+   "chatbot_3": "That's correct. This model is known for its powerful engine and aerodynamic design.",
+   "user_4": "What is the speed of this motorcycle?"
+  },
+  "conv_type": "infoseek"
+ },
+ {
+  "concept": "speed",
+  "culture": "US",
+  "kind": "implicit",
+  "file": "conversations/speed/implicit/ID_21_bg_US_fn_bike3.jpg_full.json",
+  "conv": {
+   "user_1": "Hello, I'm right here in front of this red bike and have a couple of questions.",
+   "chatbot_1": "Hello! I can certainly help with that. What would you like to know about this model?",
+   "user_2": "Great. My name is Michael. Is this bike available to use right now?",
+   "chatbot_2": "Thank you, Michael. Let me check... Yes, this bike is available. What else can I assist you with?",
+   "user_3": "Good to know. It's a nice day, almost makes me want one of those sweet teas.",
+   "chatbot_3": "It is a lovely day for a ride. Do you have any questions about the bike's features or rental process?",
+   "user_4": "What is the speed of this bike?"
+  },
+  "conv_type": "customer_support"
+ },
+ {
+  "concept": "speed",
+  "culture": "US",
+  "kind": "implicit",
+  "file": "conversations/speed/implicit/ID_35_bg_US_fn_bus1.jpg_full.json",
+  "conv": {
+   "user_1": "Hello, I'm looking at this picture of a yellow bus. My name is Michael.",
+   "chatbot_1": "Hello, Michael. It's a classic school bus design. What would you like to know about it?",
+   "user_2": "The brick building behind it reminds me of an old factory. You know, the kind that would require a 120 V, 60 Hz power supply for its machinery.",
+   "chatbot_2": "That's an interesting observation. The building's architecture does have an industrial feel. Are you referring to the 120 V, 60 Hz power supply?",
+   "user_3": "Yes, exactly. Anyway, back to the bus itself. It looks quite sturdy.",
+   "chatbot_3": "It is. These types of buses are built with a strong focus on safety and durability.",
+   "user_4": "What is the speed of this bus?"
+  },
+  "conv_type": "infoseek"
+ }
+]

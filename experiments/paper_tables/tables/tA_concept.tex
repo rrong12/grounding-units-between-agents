@@ -1,0 +1,35 @@
+\begin{tabular}{llccc}
+\toprule
+Model & Condition & Distance & Price & Speed \\
+\midrule
+\multirow{9}{*}{Opus 5.5} & \textbf{Ours}: ground + cross-check + read-back & 100 / 0 & 87 / 13 & 98 / 2 \\
+ & Hybrid confidence channel & 100 / 0 & 72 / 26 & 100 / 0 \\
+ & Explicit + inferred locale + resolver & 100 / 0 & 67 / 30 & 100 / 0 \\
+ & Explicit units \citep{miao2026capri} & 100 / 0 & 24 / 74 & 100 / 0 \\
+ & Typed JSON, mandatory unit field & 100 / 0 & 0 / 100 & 100 / 0 \\
+ & Pragmatic CoT sender \citep{miao2026capri} & 100 / 0 & 15 / 7 & 83 / 0 \\
+ & Receiver asks if uncertain \citep{matsnev2026uncertainty} & 100 / 0 & 26 / 26 & 98 / 0 \\
+ & Plain relay & 100 / 0 & 13 / 4 & 93 / 0 \\
+ & \textit{Control: principal states the unit} & 100 / 0 & 24 / 74 & 100 / 0 \\
+\midrule
+\multirow{9}{*}{Sonnet 5} & \textbf{Ours}: ground + cross-check + read-back & 100 / 0 & 93 / 6 & 98 / 0 \\
+ & Hybrid confidence channel & 100 / 0 & 96 / 2 & 98 / 0 \\
+ & Explicit + inferred locale + resolver & 100 / 0 & 96 / 0 & 97 / 0 \\
+ & Explicit units \citep{miao2026capri} & 98 / 2 & 96 / 2 & 97 / 0 \\
+ & Typed JSON, mandatory unit field & 100 / 0 & 43 / 4 & 97 / 0 \\
+ & Pragmatic CoT sender \citep{miao2026capri} & 100 / 0 & 39 / 0 & 67 / 0 \\
+ & Receiver asks if uncertain \citep{matsnev2026uncertainty} & 94 / 4 & 24 / 9 & 53 / 0 \\
+ & Plain relay & 100 / 0 & 30 / 0 & 52 / 0 \\
+ & \textit{Control: principal states the unit} & 98 / 2 & 94 / 6 & 100 / 0 \\
+\midrule
+\multirow{9}{*}{Haiku 4.5} & \textbf{Ours}: ground + cross-check + read-back & 85 / 15 & 89 / 7 & 100 / 0 \\
+ & Hybrid confidence channel & 50 / 48 & 100 / 0 & 98 / 0 \\
+ & Explicit + inferred locale + resolver & 46 / 54 & 93 / 0 & 100 / 0 \\
+ & Explicit units \citep{miao2026capri} & 65 / 35 & 96 / 0 & 100 / 0 \\
+ & Typed JSON, mandatory unit field & 93 / 7 & 91 / 0 & 100 / 0 \\
+ & Pragmatic CoT sender \citep{miao2026capri} & 44 / 52 & 24 / 0 & 55 / 2 \\
+ & Receiver asks if uncertain \citep{matsnev2026uncertainty} & 9 / 87 & 7 / 7 & 60 / 0 \\
+ & Plain relay & 52 / 31 & 19 / 0 & 38 / 0 \\
+ & \textit{Control: principal states the unit} & 50 / 50 & 98 / 0 & 100 / 0 \\
+\bottomrule
+\end{tabular}
